@@ -3,6 +3,7 @@
   "about_url": null,
   "license_url": "https://github.com/discourse/hljs-theme-picker/blob/master/LICENSE",
   "component": true,
+  "minimum_discourse_version": "2.4.1",
   "assets": {
     "a11y-dark": "/assets/a11y-dark.css",
     "a11y-light": "/assets/a11y-light.css",
