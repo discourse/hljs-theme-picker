@@ -1,0 +1,85 @@
+// This only resets the base styles we have in core to avoid conflicts
+
+.hljs .hljs-built_in,
+.lisp .hljs-title,
+.clojure .hljs-built_in,
+.hljs-builtin-name,
+.diff .hljs-meta,
+.hljs-symbol,
+.ruby .hljs-symbol .hljs-string,
+.lisp .hljs-keyword,
+.tex .hljs-special,
+.hljs-prompt,
+.hljs-regexp,
+.hljs-attribute,
+.css .hljs-keyword,
+.hljs-variable,
+.lisp .hljs-body,
+.hljs-string,
+.hljs-tag .hljs-string,
+.tex .hljs-formula,
+.hljs-number,
+.ruby .hljs-constant,
+.hljs-comment,
+.hljs-doctag,
+.meta,
+.hljs-tag,
+.hljs-tag .hljs-title,
+.django .hljs-tag .hljs-keyword,
+.hljs-class .hljs-title,
+.haskell .hljs-type,
+.vhdl .hljs-literal,
+.tex .hljs-command,
+.hljs-title,
+.hljs-name,
+.coffeescript .hljs-params,
+.scss .hljs-meta,
+.hljs-keyword,
+.javascript .hljs-title,
+.nginx .hljs-title,
+.hljs-subst,
+.hljs-request,
+.hljs-status,
+p > code,
+li > code,
+pre > code {
+  color: unset;
+}
+
+.meta,
+.hljs-tag,
+.hljs-tag .hljs-title,
+.django .hljs-tag .hljs-keyword,
+.hljs-class .hljs-title,
+.haskell .hljs-type,
+.vhdl .hljs-literal,
+.tex .hljs-command,
+.hljs-title,
+.hljs-name,
+.coffeescript .hljs-params,
+.scss .hljs-meta,
+.hljs-keyword,
+.javascript .hljs-title,
+.nginx .hljs-title,
+.hljs-subst,
+.hljs-request,
+.hljs-status,
+.javascript .hljs-title,
+.lisp .hljs-title,
+.clojure .hljs-title,
+.hljs-subst {
+  font-weight: initial;
+}
+
+.hljs-deletion,
+.hljs-addition,
+p > code,
+li > code,
+pre > code {
+  background: initial;
+}
+
+.hljs-comment,
+.hljs-doctag {
+  font-style: initial;
+}
