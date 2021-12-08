@@ -22,12 +22,22 @@ export default {
           darkSchemeName = darkSchemeName.replace("github", "github-dark");
 
           const darkPath = settings.theme_uploads[darkSchemeName];
+
           if (darkPath) {
             const linkDark = document.createElement("link");
             linkDark.setAttribute("rel", "stylesheet");
             linkDark.setAttribute("type", "text/css");
             linkDark.setAttribute("href", darkPath);
-            linkDark.setAttribute("media", "(prefers-color-scheme: dark)");
+
+            // if default scheme is dark, don't add the media query limitation
+            // i.e. use dark alternative instead
+            const schemeType = getComputedStyle(document.body).getPropertyValue(
+              "--scheme-type"
+            );
+
+            if (schemeType.trim() !== "dark") {
+              linkDark.setAttribute("media", "(prefers-color-scheme: dark)");
+            }
             document.head.appendChild(linkDark);
           }
         }
