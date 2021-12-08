@@ -45,6 +45,7 @@ hljs_theme:
     - far
     - foundation
     - github-gist
+    - github-dark
     - github
     - gml
     - googlecode
@@ -93,3 +94,6 @@ hljs_theme:
     - xcode
     - xt256
     - zenburn
+hljs_dark_match:
+  default: false
+  description: "Load dark color scheme if available"
