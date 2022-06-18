@@ -2,8 +2,9 @@ import { withPluginApi } from "discourse/lib/plugin-api";
 
 export default {
   name: "hljs-theme-picker",
+
   initialize() {
-    withPluginApi("0.8.7", (api) => {
+    withPluginApi("0.8.7", () => {
       try {
         const theme = settings.hljs_theme;
         const path = settings.theme_uploads[theme];
@@ -42,8 +43,9 @@ export default {
           }
         }
       } catch (error) {
-        console.error(error);
+        // eslint-disable-next-line no-console
         console.error(
+          error,
           "There is a problem with codeblock theme picker, Please check if you've added CSS to the theme_authorized_extensions site setting"
         );
       }
