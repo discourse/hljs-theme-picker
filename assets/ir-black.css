@@ -3,9 +3,6 @@
 */
 
 .hljs {
-  display: block;
-  overflow-x: auto;
-  padding: 0.5em;
   background: #000;
   color: #f8f8f8;
 }
@@ -61,7 +58,7 @@
 
 .hljs-number,
 .hljs-deletion {
-  color: #ff73fd;
+  color:#ff73fd;
 }
 
 .hljs-emphasis {

@@ -2,8 +2,8 @@
 
 Night Owl for highlight.js (c) Carl Baxter <carl@cbax.tech>
 
-An adaptation of Sarah Drasner's Night Owl VS Code Theme 
-https://github.com/sdras/night-owl-vscode-theme 
+An adaptation of Sarah Drasner's Night Owl VS Code Theme
+https://github.com/sdras/night-owl-vscode-theme
 
 Copyright (c) 2018 Sarah Drasner
 
@@ -28,9 +28,6 @@ SOFTWARE.
 */
 
 .hljs {
-  display: block;
-  overflow-x: auto;
-  padding: 0.5em;
   background: #011627;
   color: #d6deeb;
 }
@@ -51,7 +48,7 @@ SOFTWARE.
   color: #ff5874;
 }
 .hljs-number {
-  color: #f78c6c;
+  color: #F78C6C;
 }
 .hljs-regexp {
   color: #5ca7e4;
@@ -69,10 +66,10 @@ SOFTWARE.
   color: #ffcb8b;
 }
 .hljs-function {
-  color: #82aaff;
+  color: #82AAFF;
 }
 .hljs-title {
-  color: #dcdcaa;
+  color: #DCDCAA;
   font-style: italic;
 }
 .hljs-params {
@@ -90,10 +87,11 @@ SOFTWARE.
 .hljs-meta {
   color: #82aaff;
 }
-.hljs-meta-keyword {
+.hljs-meta .hljs-keyword {
+
   color: #82aaff;
 }
-.hljs-meta-string {
+.hljs-meta .hljs-string {
   color: #ecc48d;
 }
 
@@ -102,8 +100,7 @@ SOFTWARE.
   color: #82b1ff;
 }
 .hljs-tag,
-.hljs-name,
-.hljs-builtin-name {
+.hljs-name {
   color: #7fdbca;
 }
 .hljs-attr {
@@ -121,7 +118,7 @@ SOFTWARE.
   color: #d9f5dd;
 }
 .hljs-code {
-  color: #80cbc4;
+  color: #80CBC4;
 }
 .hljs-emphasis {
   color: #c792ea;
@@ -177,6 +174,6 @@ SOFTWARE.
 }
 
 .hljs-deletion {
-  color: #ef535090;
+  color: #EF535090;
   font-style: italic;
 }

@@ -1,6 +1,4 @@
 /*!
-  Note: Github background color modified
-
   Theme: GitHub Dark
   Description: Dark theme as seen on github.com
   Author: github.com
@@ -9,12 +7,11 @@
 
   Outdated base version: https://github.com/primer/github-syntax-dark
   Current colors taken from GitHub's CSS
-
 */
 
 .hljs {
   color: #c9d1d9;
-  background: #161b22;
+  background: #0d1117;
 }
 
 .hljs-doctag,

@@ -1,18 +1,18 @@
 /*
 
-Gradient Dark (c) Samia Ali <samiaab1990@gmail.com>
+Gradient Light (c) Samia Ali <samiaab1990@gmail.com>
 
 */
 
 .hljs
 {
-background-color: #652487;
-background-image: linear-gradient(160deg, #652487 0%, #443ac3 35%, #0174b7 68%, #04988e 100%);
-color:#e7e4eb;
+background-color: #f9ccff;
+background-image: linear-gradient(295deg, #f9ccff 0%, #e6bbf9 11%, #9ec6f9 32%, #55e6ee 60%, #91f5d1 74%, #f9ffbf 98%);
+color:#250482;
 }
 
 .hljs-subtr{
-  color:#e7e4eb;
+color:#01958B;
 }
 
 .hljs-doctag,
@@ -20,7 +20,7 @@ color:#e7e4eb;
 .hljs-comment,
 .hljs-quote
 {
-  color:#af8dd9;
+  color:#CB7200;
 }
 
 .hljs-selector-tag,
@@ -30,7 +30,7 @@ color:#e7e4eb;
 .hljs-attr,
 .hljs-tag
 {
-  color:#AEFBFF;
+  color:#07BD5F;
 }
 
 .hljs-params,
@@ -38,7 +38,7 @@ color:#e7e4eb;
 .hljs-bullet
 
 {
-  color:#F19FFF;
+  color:#43449F;
 
 }
 
@@ -46,39 +46,40 @@ color:#e7e4eb;
 .hljs-section,
 .hljs-meta .hljs-keyword,
 
+
 .hljs-symbol,
 .hljs-type
 
 {
 
-  color:#17fc95;
+  color:#7D2801;
 }
 
 .hljs-addition,
 .hljs-number,
 .hljs-link
 {
-  color:#C5FE00;
+  color:#7F0096;
 }
 
 
 .hljs-string
 {
-  color: #38c0ff;
+  color: #2681ab;
 }
 
 
 .hljs-attribute,
 .hljs-addition
 {
-  color:#E7FF9F;
+  color:#296562;
 }
 
 .hljs-variable,
 .hljs-template-variable
 
 {
-  color:#E447FF;
+  color:#025C8F;
 }
 
 .hljs-built_in,
@@ -88,7 +89,7 @@ color:#e7e4eb;
 .hljs-class,
 .hljs-function
 {
-  color: #FFC800;
+  color: #529117;
 
 }
 
@@ -96,7 +97,7 @@ color:#e7e4eb;
 .hljs-deletion,
 .hljs-literal
 {
-  color:#FF9E44;
+  color:#AD13FF;
 
 }
 
@@ -117,3 +118,11 @@ color:#e7e4eb;
 {
   font-weight:bold;
 }
+
+
+
+
+
+
+
+

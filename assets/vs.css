@@ -4,9 +4,6 @@ Visual Studio-like style based on original C# coloring by Jason Diamond <jason@d
 
 */
 .hljs {
-  display: block;
-  overflow-x: auto;
-  padding: 0.5em;
   background: white;
   color: black;
 }
@@ -57,6 +54,7 @@ Visual Studio-like style based on original C# coloring by Jason Diamond <jason@d
 .hljs-link {
   color: #00b0e8;
 }
+
 
 .hljs-emphasis {
   font-style: italic;
