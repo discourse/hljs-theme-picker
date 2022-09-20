@@ -3,86 +3,86 @@
  * Author: Nicolas LLOBERA <nllobera@gmail.com>
  */
 
-.hljs {
+body .hljs {
   background: #1E1E1E;
   color: #DCDCDC;
 }
 
-.hljs-keyword,
-.hljs-literal,
-.hljs-symbol,
-.hljs-name {
+body .hljs-keyword,
+body .hljs-literal,
+body .hljs-symbol,
+body .hljs-name {
   color: #569CD6;
 }
-.hljs-link {
+body .hljs-link {
   color: #569CD6;
   text-decoration: underline;
 }
 
-.hljs-built_in,
-.hljs-type {
+body .hljs-built_in,
+body .hljs-type {
   color: #4EC9B0;
 }
 
-.hljs-number,
-.hljs-class {
+body .hljs-number,
+body .hljs-class {
   color: #B8D7A3;
 }
 
-.hljs-string,
-.hljs-meta .hljs-string {
+body .hljs-string,
+body .hljs-meta .hljs-string {
   color: #D69D85;
 }
 
-.hljs-regexp,
-.hljs-template-tag {
+body .hljs-regexp,
+body .hljs-template-tag {
   color: #9A5334;
 }
 
-.hljs-subst,
-.hljs-function,
-.hljs-title,
-.hljs-params,
-.hljs-formula {
+body .hljs-subst,
+body .hljs-function,
+body .hljs-title,
+body .hljs-params,
+body .hljs-formula {
   color: #DCDCDC;
 }
 
-.hljs-comment,
-.hljs-quote {
+body .hljs-comment,
+body .hljs-quote {
   color: #57A64A;
   font-style: italic;
 }
 
-.hljs-doctag {
+body .hljs-doctag {
   color: #608B4E;
 }
 
-.hljs-meta,
-.hljs-meta .hljs-keyword,
+body .hljs-meta,
+body .hljs-meta .hljs-keyword,
 
-.hljs-tag {
+body .hljs-tag {
   color: #9B9B9B;
 }
 
-.hljs-variable,
-.hljs-template-variable {
+body .hljs-variable,
+body .hljs-template-variable {
   color: #BD63C5;
 }
 
-.hljs-attr,
-.hljs-attribute {
+body .hljs-attr,
+body .hljs-attribute {
   color: #9CDCFE;
 }
 
-.hljs-section {
+body .hljs-section {
   color: gold;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }
 
@@ -90,22 +90,22 @@
   font-family:'Monospace';
 }*/
 
-.hljs-bullet,
-.hljs-selector-tag,
-.hljs-selector-id,
-.hljs-selector-class,
-.hljs-selector-attr,
-.hljs-selector-pseudo {
+body .hljs-bullet,
+body .hljs-selector-tag,
+body .hljs-selector-id,
+body .hljs-selector-class,
+body .hljs-selector-attr,
+body .hljs-selector-pseudo {
   color: #D7BA7D;
 }
 
-.hljs-addition {
+body .hljs-addition {
   background-color: #144212;
   display: inline-block;
   width: 100%;
 }
 
-.hljs-deletion {
+body .hljs-deletion {
   background-color: #600;
   display: inline-block;
   width: 100%;

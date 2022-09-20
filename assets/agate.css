@@ -19,121 +19,121 @@
    #fff
 */
 
-.hljs {
+body .hljs {
   background: #333;
   color: #fff;
 }
 
-.hljs-doctag,
-.hljs-meta-keyword,
-.hljs-name,
-.hljs-strong {
+body .hljs-doctag,
+body .hljs-meta-keyword,
+body .hljs-name,
+body .hljs-strong {
   font-weight: bold;
 }
 
-.hljs-code,
-.hljs-emphasis {
+body .hljs-code,
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-section,
-.hljs-tag {
+body .hljs-section,
+body .hljs-tag {
   color: #62c8f3;
 }
 
-.hljs-selector-class,
-.hljs-selector-id,
-.hljs-template-variable,
-.hljs-variable {
+body .hljs-selector-class,
+body .hljs-selector-id,
+body .hljs-template-variable,
+body .hljs-variable {
   color: #ade5fc;
 }
 
-.hljs-meta-string,
-.hljs-string {
+body .hljs-meta-string,
+body .hljs-string {
   color: #a2fca2;
 }
 
-.hljs-attr,
-.hljs-quote,
-.hljs-selector-attr {
+body .hljs-attr,
+body .hljs-quote,
+body .hljs-selector-attr {
   color: #7bd694;
 }
 
-.hljs-tag .hljs-attr {
+body .hljs-tag .hljs-attr {
   color: inherit;
 }
 
-.hljs-attribute,
-.hljs-title,
-.hljs-type {
+body .hljs-attribute,
+body .hljs-title,
+body .hljs-type {
   color: #ffa;
 }
 
-.hljs-number,
-.hljs-symbol {
+body .hljs-number,
+body .hljs-symbol {
   color: #d36363;
 }
 
-.hljs-bullet,
-.hljs-template-tag {
+body .hljs-bullet,
+body .hljs-template-tag {
   color: #b8d8a2;
 }
 
-.hljs-built_in,
-.hljs-keyword,
-.hljs-literal,
-.hljs-selector-tag {
+body .hljs-built_in,
+body .hljs-keyword,
+body .hljs-literal,
+body .hljs-selector-tag {
   color: #fcc28c;
 }
 
-.hljs-code,
-.hljs-comment,
-.hljs-formula {
+body .hljs-code,
+body .hljs-comment,
+body .hljs-formula {
   color: #888;
 }
 
-.hljs-link,
-.hljs-selector-pseudo,
-.hljs-regexp {
+body .hljs-link,
+body .hljs-selector-pseudo,
+body .hljs-regexp {
   color: #c6b4f0;
 }
 
-.hljs-meta {
+body .hljs-meta {
   color: #fc9b9b;
 }
 
-.hljs-deletion {
+body .hljs-deletion {
   background: #fc9b9b;
   color: #333;
 }
 
-.hljs-addition {
+body .hljs-addition {
   background: #a2fca2;
   color: #333;
 }
 
 /* Purposely ignored */
-.hljs-operator,
-.hljs-params,
-.hljs-property,
-.hljs-punctuation {}
+body .hljs-operator,
+body .hljs-params,
+body .hljs-property,
+body .hljs-punctuation {}
 
-.hljs-subst {
+body .hljs-subst {
   color: #fff;
 }
 
 /* This applies only if HTML auto-merging plugin is enabled by user (#2889) */
-.hljs a {
+body .hljs a {
   color: inherit;
 }
 
-.hljs a:focus,
-.hljs a:hover {
+body .hljs a:focus,
+body .hljs a:hover {
   color: inherit;
   text-decoration: underline;
 }
 
-.hljs mark {
+body .hljs mark {
   background: #555;
   color: inherit;
 }

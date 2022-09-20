@@ -4,116 +4,116 @@ Intellij-light style (c) Pegasis <me@pegasis.site>
 
 */
 
-.hljs {
+body .hljs {
   color: #000;
   background: #fff;
 }
 
-.hljs-subst,
-.hljs-title {
+body .hljs-subst,
+body .hljs-title {
   font-weight: normal;
   color: #000;
 }
 
-.hljs-title.function_ {
+body .hljs-title.function_ {
   color: #7A7A43;
 }
 
-.hljs-code,
-.hljs-comment,
-.hljs-quote {
+body .hljs-code,
+body .hljs-comment,
+body .hljs-quote {
   color: #8C8C8C;
   font-style: italic;
 }
 
-.hljs-meta {
+body .hljs-meta {
   color: #9E880D;
 }
 
-.hljs-section {
+body .hljs-section {
   color: #871094;
 }
 
-.hljs-variable.language_,
-.hljs-symbol,
-.hljs-selector-class,
-.hljs-selector-id,
-.hljs-selector-tag,
-.hljs-template-tag,
-.hljs-selector-attr,
-.hljs-selector-pseudo,
-.hljs-keyword,
-.hljs-meta .hljs-keyword,
-.hljs-literal,
-.hljs-name,
-.hljs-built_in,
-.hljs-type {
+body .hljs-variable.language_,
+body .hljs-symbol,
+body .hljs-selector-class,
+body .hljs-selector-id,
+body .hljs-selector-tag,
+body .hljs-template-tag,
+body .hljs-selector-attr,
+body .hljs-selector-pseudo,
+body .hljs-keyword,
+body .hljs-meta .hljs-keyword,
+body .hljs-literal,
+body .hljs-name,
+body .hljs-built_in,
+body .hljs-type {
   color: #0033B3;
 }
 
-.hljs-property,
-.hljs-attr {
+body .hljs-property,
+body .hljs-attr {
   color: #871094;
 }
 
-.hljs-attribute {
+body .hljs-attribute {
   color: #174AD4;
 }
 
-.hljs-number {
+body .hljs-number {
   color: #1750EB;
 }
 
-.hljs-regexp {
+body .hljs-regexp {
   color: #264EFF;
 }
 
-.hljs-link {
+body .hljs-link {
   text-decoration: underline;
   color: #006DCC;
 }
 
-.hljs-meta .hljs-string,
-.hljs-string {
+body .hljs-meta .hljs-string,
+body .hljs-string {
   color: #067D17;
 }
 
-.hljs-char.escape_ {
+body .hljs-char.escape_ {
   color: #0037A6;
 }
 
-.hljs-doctag {
+body .hljs-doctag {
   text-decoration: underline;
 }
 
-.hljs-template-variable {
+body .hljs-template-variable {
   color: #248F8F;
 }
 
-.hljs-addition {
+body .hljs-addition {
   background: #BEE6BE;
 }
 
-.hljs-deletion {
+body .hljs-deletion {
   background: #D6D6D6;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }
 
-.hljs-variable,
-.hljs-operator,
-.hljs-punctuation,
-.hljs-title.class_.inherited__,
-.hljs-title.class_,
-.hljs-params,
-.hljs-bullet,
-.hljs-formula,
-.hljs-tag {
+body .hljs-variable,
+body .hljs-operator,
+body .hljs-punctuation,
+body .hljs-title.class_.inherited__,
+body .hljs-title.class_,
+body .hljs-params,
+body .hljs-bullet,
+body .hljs-formula,
+body .hljs-tag {
   /* purposely ignored */
 }

@@ -2,69 +2,69 @@
   IR_Black style (c) Vasily Mikhailitchenko <vaskas@programica.ru>
 */
 
-.hljs {
+body .hljs {
   background: #000;
   color: #f8f8f8;
 }
 
-.hljs-comment,
-.hljs-quote,
-.hljs-meta {
+body .hljs-comment,
+body .hljs-quote,
+body .hljs-meta {
   color: #7c7c7c;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-tag,
-.hljs-name {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-tag,
+body .hljs-name {
   color: #96cbfe;
 }
 
-.hljs-attribute,
-.hljs-selector-id {
+body .hljs-attribute,
+body .hljs-selector-id {
   color: #ffffb6;
 }
 
-.hljs-string,
-.hljs-selector-attr,
-.hljs-selector-pseudo,
-.hljs-addition {
+body .hljs-string,
+body .hljs-selector-attr,
+body .hljs-selector-pseudo,
+body .hljs-addition {
   color: #a8ff60;
 }
 
-.hljs-subst {
+body .hljs-subst {
   color: #daefa3;
 }
 
-.hljs-regexp,
-.hljs-link {
+body .hljs-regexp,
+body .hljs-link {
   color: #e9c062;
 }
 
-.hljs-title,
-.hljs-section,
-.hljs-type,
-.hljs-doctag {
+body .hljs-title,
+body .hljs-section,
+body .hljs-type,
+body .hljs-doctag {
   color: #ffffb6;
 }
 
-.hljs-symbol,
-.hljs-bullet,
-.hljs-variable,
-.hljs-template-variable,
-.hljs-literal {
+body .hljs-symbol,
+body .hljs-bullet,
+body .hljs-variable,
+body .hljs-template-variable,
+body .hljs-literal {
   color: #c6c5fe;
 }
 
-.hljs-number,
-.hljs-deletion {
+body .hljs-number,
+body .hljs-deletion {
   color:#ff73fd;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }

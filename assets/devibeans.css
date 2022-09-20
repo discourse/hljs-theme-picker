@@ -6,92 +6,92 @@
     Inspired by vim's jellybeans theme (https://github.com/nanotech/jellybeans.vim)
 */
 
-.hljs {
+body .hljs {
   background: #000000;
   color: #a39e9b;
 }
 
-.hljs-attr,
-.hljs-template-tag {
+body .hljs-attr,
+body .hljs-template-tag {
   color: #8787d7;
 }
 
-.hljs-comment,
-.hljs-doctag,
-.hljs-quote {
+body .hljs-comment,
+body .hljs-doctag,
+body .hljs-quote {
   color: #339966;
 }
 
-.hljs-params {
+body .hljs-params {
   color: #a39e9b;
 }
 
-.hljs-regexp {
+body .hljs-regexp {
   color: #d700ff;
 }
 
-.hljs-tag,
-.hljs-selector-id,
-.hljs-number,
-.hljs-literal {
+body .hljs-tag,
+body .hljs-selector-id,
+body .hljs-number,
+body .hljs-literal {
   color: #ef5350;
 }
 
-.hljs-meta,
-.hljs-meta .hljs-keyword {
+body .hljs-meta,
+body .hljs-meta .hljs-keyword {
 
   color: #0087ff;
 }
 
 /* opt-out */
-.hljs-operator,
-.hljs-punctuation{
+body .hljs-operator,
+body .hljs-punctuation{
 }
 
-.hljs-selector-class,
-.hljs-code,
-.hljs-formula,
-.hljs-variable,
-.hljs-template-variable,
-.hljs-selector-attr,
-.hljs-selector-pseudo,
-.hljs-link,
-.hljs-keyword {
+body .hljs-selector-class,
+body .hljs-code,
+body .hljs-formula,
+body .hljs-variable,
+body .hljs-template-variable,
+body .hljs-selector-attr,
+body .hljs-selector-pseudo,
+body .hljs-link,
+body .hljs-keyword {
   color: #64b5f6;
 }
 
-.hljs-built_in,
-.hljs-title,
-.hljs-deletion {
+body .hljs-built_in,
+body .hljs-title,
+body .hljs-deletion {
   color: #ff8700;
 }
 
-.hljs-type,
-.hljs-section,
-.hljs-function,
-.hljs-name,
-.hljs-property,
-.hljs-attribute {
+body .hljs-type,
+body .hljs-section,
+body .hljs-function,
+body .hljs-name,
+body .hljs-property,
+body .hljs-attribute {
   color: #ffd75f;
 }
 
-.hljs-meta .hljs-string,
-.hljs-string,
-.hljs-subst,
-.hljs-symbol,
-.hljs-bullet,
-.hljs-addition {
+body .hljs-meta .hljs-string,
+body .hljs-string,
+body .hljs-subst,
+body .hljs-symbol,
+body .hljs-bullet,
+body .hljs-addition {
   color: #558b2f;
 }
 
-.hljs-selector-tag {
+body .hljs-selector-tag {
   color: #9966ff;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }

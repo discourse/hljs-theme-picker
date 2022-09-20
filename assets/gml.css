@@ -4,73 +4,73 @@ GML Theme - Meseta <meseta@gmail.com>
 
 */
 
-.hljs {
+body .hljs {
   background: #222222;
   color: #C0C0C0;
 }
 
-.hljs-keyword {
+body .hljs-keyword {
   color: #FFB871;
   font-weight: bold;
 }
 
-.hljs-built_in {
+body .hljs-built_in {
   color: #FFB871;
 }
 
-.hljs-literal {
+body .hljs-literal {
   color: #FF8080;
 }
 
-.hljs-symbol {
+body .hljs-symbol {
   color: #58E55A;
 }
 
-.hljs-comment {
+body .hljs-comment {
   color: #5B995B;
 }
 
-.hljs-string {
+body .hljs-string {
   color: #FFFF00;
 }
 
-.hljs-number {
+body .hljs-number {
   color: #FF8080;
 }
 
-.hljs-attribute,
-.hljs-selector-tag,
-.hljs-doctag,
-.hljs-name,
-.hljs-bullet,
-.hljs-code,
-.hljs-addition,
-.hljs-regexp,
-.hljs-variable,
-.hljs-template-variable,
-.hljs-link,
-.hljs-selector-attr,
-.hljs-selector-pseudo,
-.hljs-type,
-.hljs-selector-id,
-.hljs-selector-class,
-.hljs-quote,
-.hljs-template-tag,
-.hljs-deletion,
-.hljs-title,
-.hljs-section,
-.hljs-function,
-.hljs-meta .hljs-keyword,
+body .hljs-attribute,
+body .hljs-selector-tag,
+body .hljs-doctag,
+body .hljs-name,
+body .hljs-bullet,
+body .hljs-code,
+body .hljs-addition,
+body .hljs-regexp,
+body .hljs-variable,
+body .hljs-template-variable,
+body .hljs-link,
+body .hljs-selector-attr,
+body .hljs-selector-pseudo,
+body .hljs-type,
+body .hljs-selector-id,
+body .hljs-selector-class,
+body .hljs-quote,
+body .hljs-template-tag,
+body .hljs-deletion,
+body .hljs-title,
+body .hljs-section,
+body .hljs-function,
+body .hljs-meta .hljs-keyword,
 
-.hljs-meta,
-.hljs-subst {
+body .hljs-meta,
+body .hljs-subst {
   color: #C0C0C0;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }

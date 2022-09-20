@@ -4,98 +4,98 @@ XCode style (c) Angel Garcia <angelgarcia.mail@gmail.com>
 
 */
 
-.hljs {
+body .hljs {
   background: #fff;
   color: black;
 }
 
 /* Gray DOCTYPE selectors like WebKit */
-.xml .hljs-meta {
+body .xml .hljs-meta {
   color: #c0c0c0;
 }
 
-.hljs-comment,
-.hljs-quote {
+body .hljs-comment,
+body .hljs-quote {
   color: #007400;
 }
 
-.hljs-tag,
-.hljs-attribute,
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-literal,
-.hljs-name {
+body .hljs-tag,
+body .hljs-attribute,
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-literal,
+body .hljs-name {
   color: #aa0d91;
 }
 
-.hljs-variable,
-.hljs-template-variable {
+body .hljs-variable,
+body .hljs-template-variable {
   color: #3F6E74;
 }
 
-.hljs-code,
-.hljs-string,
-.hljs-meta .hljs-string {
+body .hljs-code,
+body .hljs-string,
+body .hljs-meta .hljs-string {
   color: #c41a16;
 }
 
-.hljs-regexp,
-.hljs-link {
+body .hljs-regexp,
+body .hljs-link {
   color: #0E0EFF;
 }
 
-.hljs-title,
-.hljs-symbol,
-.hljs-bullet,
-.hljs-number {
+body .hljs-title,
+body .hljs-symbol,
+body .hljs-bullet,
+body .hljs-number {
   color: #1c00cf;
 }
 
-.hljs-section,
-.hljs-meta {
+body .hljs-section,
+body .hljs-meta {
   color: #643820;
 }
 
 
-.hljs-title.class_,
-.hljs-class .hljs-title,
-.hljs-type,
-.hljs-built_in,
-.hljs-params {
+body .hljs-title.class_,
+body .hljs-class .hljs-title,
+body .hljs-type,
+body .hljs-built_in,
+body .hljs-params {
   color: #5c2699;
 }
 
-.hljs-attr {
+body .hljs-attr {
   color: #836C28;
 }
 
-.hljs-subst {
+body .hljs-subst {
   color: #000;
 }
 
-.hljs-formula {
+body .hljs-formula {
   background-color: #eee;
   font-style: italic;
 }
 
-.hljs-addition {
+body .hljs-addition {
   background-color: #baeeba;
 }
 
-.hljs-deletion {
+body .hljs-deletion {
   background-color: #ffc8bd;
 }
 
-.hljs-selector-id,
-.hljs-selector-class {
+body .hljs-selector-id,
+body .hljs-selector-class {
   color: #9b703f;
 }
 
-.hljs-doctag,
-.hljs-strong {
+body .hljs-doctag,
+body .hljs-strong {
   font-weight: bold;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }

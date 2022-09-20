@@ -25,109 +25,109 @@ code.hljs {
 }
 /* end baseline CSS */
 
-.hljs {
+body .hljs {
   background: #F3F3F3;
   color: #444;
 }
 
 /* Base color: saturation 0; */
 
-.hljs-subst {
+body .hljs-subst {
   /* default */
 }
 
 /* purposely ignored */
-.hljs-formula,
-.hljs-attr,
-.hljs-property,
-.hljs-params {}
+body .hljs-formula,
+body .hljs-attr,
+body .hljs-property,
+body .hljs-params {}
 
-.hljs-comment {
+body .hljs-comment {
   color: #697070;
 }
-.hljs-tag,
-.hljs-punctuation {
+body .hljs-tag,
+body .hljs-punctuation {
   color: #444a;
 }
 
-.hljs-tag .hljs-name,
-.hljs-tag .hljs-attr {
+body .hljs-tag .hljs-name,
+body .hljs-tag .hljs-attr {
   color: #444;
 }
 
 
-.hljs-keyword,
-.hljs-attribute,
-.hljs-selector-tag,
-.hljs-meta .hljs-keyword,
+body .hljs-keyword,
+body .hljs-attribute,
+body .hljs-selector-tag,
+body .hljs-meta .hljs-keyword,
 
-.hljs-doctag,
-.hljs-name {
+body .hljs-doctag,
+body .hljs-name {
   font-weight: bold;
 }
 
 
 /* User color: hue: 0 */
 
-.hljs-type,
-.hljs-string,
-.hljs-number,
-.hljs-selector-id,
-.hljs-selector-class,
-.hljs-quote,
-.hljs-template-tag,
-.hljs-deletion {
+body .hljs-type,
+body .hljs-string,
+body .hljs-number,
+body .hljs-selector-id,
+body .hljs-selector-class,
+body .hljs-quote,
+body .hljs-template-tag,
+body .hljs-deletion {
   color: #880000;
 }
 
-.hljs-title,
-.hljs-section {
+body .hljs-title,
+body .hljs-section {
   color: #880000;
   font-weight: bold;
 }
 
-.hljs-regexp,
-.hljs-symbol,
-.hljs-variable,
-.hljs-template-variable,
-.hljs-link,
-.hljs-selector-attr,
-.hljs-operator,
-.hljs-selector-pseudo {
+body .hljs-regexp,
+body .hljs-symbol,
+body .hljs-variable,
+body .hljs-template-variable,
+body .hljs-link,
+body .hljs-selector-attr,
+body .hljs-operator,
+body .hljs-selector-pseudo {
   color: #ab5656;
 }
 
 /* Language color: hue: 90; */
 
-.hljs-literal {
+body .hljs-literal {
   color: #695;
 }
 
-.hljs-built_in,
-.hljs-bullet,
-.hljs-code,
-.hljs-addition {
+body .hljs-built_in,
+body .hljs-bullet,
+body .hljs-code,
+body .hljs-addition {
   color: #397300;
 }
 
 
 /* Meta color: hue: 200 */
 
-.hljs-meta {
+body .hljs-meta {
   color: #1f7199;
 }
 
-.hljs-meta .hljs-string {
+body .hljs-meta .hljs-string {
   color: #38a;
 }
 
 
 /* Misc effects */
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }

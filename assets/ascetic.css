@@ -4,39 +4,39 @@ Original style from softwaremaniacs.org (c) Ivan Sagalaev <Maniac@SoftwareManiac
 
 */
 
-.hljs {
+body .hljs {
   background: white;
   color: black;
 }
 
-.hljs-string,
-.hljs-variable,
-.hljs-template-variable,
-.hljs-symbol,
-.hljs-bullet,
-.hljs-section,
-.hljs-addition,
-.hljs-attribute,
-.hljs-link {
+body .hljs-string,
+body .hljs-variable,
+body .hljs-template-variable,
+body .hljs-symbol,
+body .hljs-bullet,
+body .hljs-section,
+body .hljs-addition,
+body .hljs-attribute,
+body .hljs-link {
   color: #888;
 }
 
-.hljs-comment,
-.hljs-quote,
-.hljs-meta,
-.hljs-deletion {
+body .hljs-comment,
+body .hljs-quote,
+body .hljs-meta,
+body .hljs-deletion {
   color: #ccc;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-section,
-.hljs-name,
-.hljs-type,
-.hljs-strong {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-section,
+body .hljs-name,
+body .hljs-type,
+body .hljs-strong {
   font-weight: bold;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }

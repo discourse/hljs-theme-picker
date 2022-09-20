@@ -7,85 +7,85 @@ Website: https://srcery-colors.github.io/
 Date: 2021-04-13
 */
 
-.hljs {
+body .hljs {
   background: #1C1B19; /* Black */
   color: #FCE8C3; /* Bright White */
 }
 
 /* Bright White */
-.hljs-subst,
-.hljs-quote,
-.hljs-literal {
+body .hljs-subst,
+body .hljs-quote,
+body .hljs-literal {
   color: #FCE8C3;
 }
 
 /* Bright Blue */
-.hljs-type,
-.hljs-symbol {
+body .hljs-type,
+body .hljs-symbol {
   color: #68A8E4;
 }
 
 /* Red */
-.hljs-keyword,
-.hljs-deletion {
+body .hljs-keyword,
+body .hljs-deletion {
   color: #EF2F27;
 }
 
 /* Yellow */
-.hljs-name,
-.hljs-function,
-.hljs-attribute,
-.hljs-selector-attr,
-.hljs-selector-id,
-.hljs-selector-class,
-.hljs-selector-pseudo,
-.hljs-section,
-.hljs-title {
+body .hljs-name,
+body .hljs-function,
+body .hljs-attribute,
+body .hljs-selector-attr,
+body .hljs-selector-id,
+body .hljs-selector-class,
+body .hljs-selector-pseudo,
+body .hljs-section,
+body .hljs-title {
   color: #FBB829;
 }
 
 /* Cyan */
-.hljs-code,
-.hljs-variable,
-.hljs-property,
-.hljs-template-variable,
-.hljs-class {
+body .hljs-code,
+body .hljs-variable,
+body .hljs-property,
+body .hljs-template-variable,
+body .hljs-class {
   color: #0AAEB3;
 }
 
 /* Bright Green */
-.hljs-string,
-.hljs-regexp,
-.hljs-bullet,
-.hljs-addition {
+body .hljs-string,
+body .hljs-regexp,
+body .hljs-bullet,
+body .hljs-addition {
   color: #98BC37;
 }
 
 /* Bright Magenta */
-.hljs-built_in,
-.hljs-params {
+body .hljs-built_in,
+body .hljs-params {
   color: #FF5C8F;
 }
 
 /* Blue */
-.hljs-template-tag,
-.hljs-selector-tag {
+body .hljs-template-tag,
+body .hljs-selector-tag {
   color: #2C78BF;
 }
 
 /* Bright Black */
-.hljs-link,
-.hljs-number,
-.hljs-comment,
-.hljs-meta {
+body .hljs-link,
+body .hljs-number,
+body .hljs-comment,
+body .hljs-meta {
   color: #918175;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }
 

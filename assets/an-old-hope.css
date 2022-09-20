@@ -9,79 +9,79 @@
 */
 
 /* Millenium Falcon */
-.hljs
+body .hljs
 {
   background: #1C1D21;
   color: #c0c5ce;
 }
 
 /* Death Star Comment */
-.hljs-comment,
-.hljs-quote
+body .hljs-comment,
+body .hljs-quote
 {
   color: #B6B18B;
 }
 
 /* Darth Vader */
-.hljs-variable,
-.hljs-template-variable,
-.hljs-tag,
-.hljs-name,
-.hljs-selector-id,
-.hljs-selector-class,
-.hljs-regexp,
-.hljs-deletion
+body .hljs-variable,
+body .hljs-template-variable,
+body .hljs-tag,
+body .hljs-name,
+body .hljs-selector-id,
+body .hljs-selector-class,
+body .hljs-regexp,
+body .hljs-deletion
 {
   color: #EB3C54;
 }
 
 /* Threepio */
-.hljs-number,
-.hljs-built_in,
-.hljs-literal,
-.hljs-type,
-.hljs-params,
-.hljs-meta,
-.hljs-link
+body .hljs-number,
+body .hljs-built_in,
+body .hljs-literal,
+body .hljs-type,
+body .hljs-params,
+body .hljs-meta,
+body .hljs-link
 {
   color: #E7CE56;
 }
 
 /* Luke Skywalker */
-.hljs-attribute
+body .hljs-attribute
 {
   color: #EE7C2B;
 }
 
 /* Obi Wan Kenobi */
-.hljs-string,
-.hljs-symbol,
-.hljs-bullet,
-.hljs-addition
+body .hljs-string,
+body .hljs-symbol,
+body .hljs-bullet,
+body .hljs-addition
 {
   color: #4FB4D7;
 }
 
 /* Yoda */
-.hljs-title,
-.hljs-section
+body .hljs-title,
+body .hljs-section
 {
   color: #78BB65;
 }
 
 /* Mace Windu */
-.hljs-keyword,
-.hljs-selector-tag
+body .hljs-keyword,
+body .hljs-selector-tag
 {
   color: #B45EA4;
 }
 
-.hljs-emphasis
+body .hljs-emphasis
 {
   font-style: italic;
 }
 
-.hljs-strong
+body .hljs-strong
 {
   font-weight: bold;
 }

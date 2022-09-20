@@ -4,82 +4,82 @@ Google Code style (c) Aahan Krish <geekpanth3r@gmail.com>
 
 */
 
-.hljs {
+body .hljs {
   background: white;
   color: black;
 }
 
-.hljs-comment,
-.hljs-quote {
+body .hljs-comment,
+body .hljs-quote {
   color: #800;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-section,
-.hljs-title,
-.hljs-name {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-section,
+body .hljs-title,
+body .hljs-name {
   color: #008;
 }
 
-.hljs-variable,
-.hljs-template-variable {
+body .hljs-variable,
+body .hljs-template-variable {
   color: #660;
 }
 
-.hljs-string,
-.hljs-selector-attr,
-.hljs-selector-pseudo,
-.hljs-regexp {
+body .hljs-string,
+body .hljs-selector-attr,
+body .hljs-selector-pseudo,
+body .hljs-regexp {
   color: #080;
 }
 
-.hljs-literal,
-.hljs-symbol,
-.hljs-bullet,
-.hljs-meta,
-.hljs-number,
-.hljs-link {
+body .hljs-literal,
+body .hljs-symbol,
+body .hljs-bullet,
+body .hljs-meta,
+body .hljs-number,
+body .hljs-link {
   color: #066;
 }
 
-.hljs-title,
-.hljs-doctag,
-.hljs-type,
-.hljs-attr,
-.hljs-built_in,
-.hljs-params {
+body .hljs-title,
+body .hljs-doctag,
+body .hljs-type,
+body .hljs-attr,
+body .hljs-built_in,
+body .hljs-params {
   color: #606;
 }
 
-.hljs-attribute,
-.hljs-subst {
+body .hljs-attribute,
+body .hljs-subst {
   color: #000;
 }
 
-.hljs-formula {
+body .hljs-formula {
   background-color: #eee;
   font-style: italic;
 }
 
-.hljs-selector-id,
-.hljs-selector-class {
+body .hljs-selector-id,
+body .hljs-selector-class {
   color: #9B703F
 }
 
-.hljs-addition {
+body .hljs-addition {
   background-color: #baeeba;
 }
 
-.hljs-deletion {
+body .hljs-deletion {
   background-color: #ffc8bd;
 }
 
-.hljs-doctag,
-.hljs-strong {
+body .hljs-doctag,
+body .hljs-strong {
   font-weight: bold;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }

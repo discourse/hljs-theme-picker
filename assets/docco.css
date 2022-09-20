@@ -2,92 +2,92 @@
 Docco style used in http://jashkenas.github.com/docco/ converted by Simon Madine (@thingsinjars)
 */
 
-.hljs {
+body .hljs {
   color: #000;
   background: #f8f8ff;
 }
 
-.hljs-comment,
-.hljs-quote {
+body .hljs-comment,
+body .hljs-quote {
   color: #408080;
   font-style: italic;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-literal,
-.hljs-subst {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-literal,
+body .hljs-subst {
   color: #954121;
 }
 
-.hljs-number {
+body .hljs-number {
   color: #40a070;
 }
 
-.hljs-string,
-.hljs-doctag {
+body .hljs-string,
+body .hljs-doctag {
   color: #219161;
 }
 
-.hljs-selector-id,
-.hljs-selector-class,
-.hljs-section,
-.hljs-type {
+body .hljs-selector-id,
+body .hljs-selector-class,
+body .hljs-section,
+body .hljs-type {
   color: #19469d;
 }
 
-.hljs-params {
+body .hljs-params {
   color: #00f;
 }
 
-.hljs-title {
+body .hljs-title {
   color: #458;
   font-weight: bold;
 }
 
-.hljs-tag,
-.hljs-name,
-.hljs-attribute {
+body .hljs-tag,
+body .hljs-name,
+body .hljs-attribute {
   color: #000080;
   font-weight: normal;
 }
 
-.hljs-variable,
-.hljs-template-variable {
+body .hljs-variable,
+body .hljs-template-variable {
   color: #008080;
 }
 
-.hljs-regexp,
-.hljs-link {
+body .hljs-regexp,
+body .hljs-link {
   color: #b68;
 }
 
-.hljs-symbol,
-.hljs-bullet {
+body .hljs-symbol,
+body .hljs-bullet {
   color: #990073;
 }
 
-.hljs-built_in {
+body .hljs-built_in {
   color: #0086b3;
 }
 
-.hljs-meta {
+body .hljs-meta {
   color: #999;
   font-weight: bold;
 }
 
-.hljs-deletion {
+body .hljs-deletion {
   background: #fdd;
 }
 
-.hljs-addition {
+body .hljs-addition {
   background: #dfd;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }

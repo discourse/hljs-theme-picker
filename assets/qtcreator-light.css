@@ -3,76 +3,76 @@ Qt Creator light color scheme
 */
 
 
-.hljs {
+body .hljs {
   color: #000000;
   background: #ffffff;
 }
 
-.hljs-strong,
-.hljs-emphasis {
+body .hljs-strong,
+body .hljs-emphasis {
   color: #000000;
 }
 
-.hljs-bullet,
-.hljs-quote,
-.hljs-number,
-.hljs-regexp,
-.hljs-literal {
+body .hljs-bullet,
+body .hljs-quote,
+body .hljs-number,
+body .hljs-regexp,
+body .hljs-literal {
   color: #000080;
 }
 
-.hljs-code
-.hljs-selector-class {
+body .hljs-code
+body .hljs-selector-class {
   color: #800080;
 }
 
-.hljs-emphasis,
-.hljs-stronge,
-.hljs-type {
+body .hljs-emphasis,
+body .hljs-stronge,
+body .hljs-type {
   font-style: italic;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-function,
-.hljs-section,
-.hljs-symbol,
-.hljs-name {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-function,
+body .hljs-section,
+body .hljs-symbol,
+body .hljs-name {
   color: #808000;
 }
 
-.hljs-subst,
-.hljs-tag,
-.hljs-title {
+body .hljs-subst,
+body .hljs-tag,
+body .hljs-title {
   color: #000000;
 }
 
-.hljs-attribute {
+body .hljs-attribute {
   color: #800000;
 }
 
-.hljs-variable,
-.hljs-params,
-.hljs-title.class_,
-.hljs-class .hljs-title {
+body .hljs-variable,
+body .hljs-params,
+body .hljs-title.class_,
+body .hljs-class .hljs-title {
   color: #0055AF;
 }
 
-.hljs-string,
-.hljs-selector-id,
-.hljs-selector-attr,
-.hljs-selector-pseudo,
-.hljs-type,
-.hljs-built_in,
-.hljs-template-tag,
-.hljs-template-variable,
-.hljs-addition,
-.hljs-link {
+body .hljs-string,
+body .hljs-selector-id,
+body .hljs-selector-attr,
+body .hljs-selector-pseudo,
+body .hljs-type,
+body .hljs-built_in,
+body .hljs-template-tag,
+body .hljs-template-variable,
+body .hljs-addition,
+body .hljs-link {
   color: #008000;
 }
 
-.hljs-comment,
-.hljs-meta,
-.hljs-deletion {
+body .hljs-comment,
+body .hljs-meta,
+body .hljs-deletion {
   color: #008000;
 }

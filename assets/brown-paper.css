@@ -4,58 +4,58 @@ Brown Paper style from goldblog.com.ua (c) Zaripov Yura <yur4ik7@ukr.net>
 
 */
 
-.hljs {
+body .hljs {
   color: #363c69;
   background:#b7a68e url(./brown-papersq.png);
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-literal {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-literal {
   color:#005599;
   font-weight:bold;
 }
 
-.hljs-subst {
+body .hljs-subst {
   /* default */
 }
 
-.hljs-string,
-.hljs-title,
-.hljs-section,
-.hljs-type,
-.hljs-attribute,
-.hljs-symbol,
-.hljs-bullet,
-.hljs-built_in,
-.hljs-addition,
-.hljs-variable,
-.hljs-template-tag,
-.hljs-template-variable,
-.hljs-link,
-.hljs-name {
+body .hljs-string,
+body .hljs-title,
+body .hljs-section,
+body .hljs-type,
+body .hljs-attribute,
+body .hljs-symbol,
+body .hljs-bullet,
+body .hljs-built_in,
+body .hljs-addition,
+body .hljs-variable,
+body .hljs-template-tag,
+body .hljs-template-variable,
+body .hljs-link,
+body .hljs-name {
   color: #2c009f;
 }
 
-.hljs-comment,
-.hljs-quote,
-.hljs-meta,
-.hljs-deletion {
+body .hljs-comment,
+body .hljs-quote,
+body .hljs-meta,
+body .hljs-deletion {
   color: #802022;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-literal,
-.hljs-doctag,
-.hljs-title,
-.hljs-section,
-.hljs-type,
-.hljs-name,
-.hljs-strong {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-literal,
+body .hljs-doctag,
+body .hljs-title,
+body .hljs-section,
+body .hljs-type,
+body .hljs-name,
+body .hljs-strong {
   font-weight: bold;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }

@@ -42,301 +42,301 @@ Aurora
 
 */
 
-.hljs {
+body .hljs {
   background: #2E3440;
 }
 
-.hljs,
-.hljs-subst {
+body .hljs,
+body .hljs-subst {
   color: #D8DEE9;
 }
 
-.hljs-selector-tag {
+body .hljs-selector-tag {
   color: #81A1C1;
 }
 
-.hljs-selector-id {
+body .hljs-selector-id {
   color: #8FBCBB;
   font-weight: bold;
 }
 
-.hljs-selector-class {
+body .hljs-selector-class {
   color: #8FBCBB;
 }
 
-.hljs-selector-attr {
+body .hljs-selector-attr {
   color: #8FBCBB;
 }
 
-.hljs-property {
+body .hljs-property {
   color: #88C0D0;
 }
 
-.hljs-selector-pseudo {
+body .hljs-selector-pseudo {
   color: #88C0D0;
 }
 
-.hljs-addition {
+body .hljs-addition {
   background-color: rgba(163, 190, 140, 0.5);
 }
 
-.hljs-deletion {
+body .hljs-deletion {
   background-color: rgba(191, 97, 106, 0.5);
 }
 
-.hljs-built_in,
-.hljs-type {
+body .hljs-built_in,
+body .hljs-type {
   color: #8FBCBB;
 }
 
-.hljs-class {
+body .hljs-class {
   color: #8FBCBB;
 }
 
-.hljs-function {
+body .hljs-function {
   color: #88C0D0;
 }
 
-.hljs-title.hljs-function,
-.hljs-function > .hljs-title {
+body .hljs-title.hljs-function,
+body .hljs-function > .hljs-title {
   color: #88C0D0;
 }
 
-.hljs-keyword,
-.hljs-literal,
-.hljs-symbol {
+body .hljs-keyword,
+body .hljs-literal,
+body .hljs-symbol {
   color: #81A1C1;
 }
 
-.hljs-number {
+body .hljs-number {
   color: #B48EAD;
 }
 
-.hljs-regexp {
+body .hljs-regexp {
   color: #EBCB8B;
 }
 
-.hljs-string {
+body .hljs-string {
   color: #A3BE8C;
 }
 
-.hljs-title {
+body .hljs-title {
   color: #8FBCBB;
 }
 
-.hljs-params {
+body .hljs-params {
   color: #D8DEE9;
 }
 
-.hljs-bullet {
+body .hljs-bullet {
   color: #81A1C1;
 }
 
-.hljs-code {
+body .hljs-code {
   color: #8FBCBB;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-formula {
+body .hljs-formula {
   color: #8FBCBB;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }
 
-.hljs-link:hover {
+body .hljs-link:hover {
   text-decoration: underline;
 }
 
-.hljs-quote {
+body .hljs-quote {
   color: #4C566A;
 }
 
-.hljs-comment {
+body .hljs-comment {
   color: #4C566A;
 }
 
-.hljs-doctag {
+body .hljs-doctag {
   color: #8FBCBB;
 }
 
-.hljs-meta,
-.hljs-meta .hljs-keyword {
+body .hljs-meta,
+body .hljs-meta .hljs-keyword {
 
   color: #5E81AC;
 }
 
-.hljs-meta .hljs-string {
+body .hljs-meta .hljs-string {
   color: #A3BE8C;
 }
 
-.hljs-attr {
+body .hljs-attr {
   color: #8FBCBB;
 }
 
-.hljs-attribute {
+body .hljs-attribute {
   color: #D8DEE9;
 }
 
-.hljs-name {
+body .hljs-name {
   color: #81A1C1;
 }
 
-.hljs-section {
+body .hljs-section {
   color: #88C0D0;
 }
 
-.hljs-tag {
+body .hljs-tag {
   color: #81A1C1;
 }
 
-.hljs-variable {
+body .hljs-variable {
   color: #D8DEE9;
 }
 
-.hljs-template-variable {
+body .hljs-template-variable {
   color: #D8DEE9;
 }
 
-.hljs-template-tag {
+body .hljs-template-tag {
   color: #5E81AC;
 }
 
 /* per language customizations */
 
-.language-abnf .hljs-attribute {
+body .language-abnf .hljs-attribute {
   color: #88C0D0;
 }
 
-.language-abnf .hljs-symbol {
+body .language-abnf .hljs-symbol {
   color: #EBCB8B;
 }
 
-.language-apache .hljs-attribute {
+body .language-apache .hljs-attribute {
   color: #88C0D0;
 }
 
-.language-apache .hljs-section {
+body .language-apache .hljs-section {
   color: #81A1C1;
 }
 
-.language-arduino .hljs-built_in {
+body .language-arduino .hljs-built_in {
   color: #88C0D0;
 }
 
-.language-aspectj .hljs-meta {
+body .language-aspectj .hljs-meta {
   color: #D08770;
 }
 
-.language-aspectj > .hljs-title {
+body .language-aspectj > .hljs-title {
   color: #88C0D0;
 }
 
-.language-bnf .hljs-attribute {
+body .language-bnf .hljs-attribute {
   color: #8FBCBB;
 }
 
-.language-clojure .hljs-name {
+body .language-clojure .hljs-name {
   color: #88C0D0;
 }
 
-.language-clojure .hljs-symbol {
+body .language-clojure .hljs-symbol {
   color: #EBCB8B;
 }
 
-.language-coq .hljs-built_in {
+body .language-coq .hljs-built_in {
   color: #88C0D0;
 }
 
-.language-cpp .hljs-meta .hljs-string {
+body .language-cpp .hljs-meta .hljs-string {
   color: #8FBCBB;
 }
 
-.language-css .hljs-built_in {
+body .language-css .hljs-built_in {
   color: #88C0D0;
 }
 
-.language-css .hljs-keyword {
+body .language-css .hljs-keyword {
   color: #D08770;
 }
 
-.language-diff .hljs-meta {
+body .language-diff .hljs-meta {
   color: #8FBCBB;
 }
 
-.language-ebnf .hljs-attribute {
+body .language-ebnf .hljs-attribute {
   color: #8FBCBB;
 }
 
-.language-glsl .hljs-built_in {
+body .language-glsl .hljs-built_in {
   color: #88C0D0;
 }
 
-.language-groovy .hljs-meta:not(:first-child) {
+body .language-groovy .hljs-meta:not(:first-child) {
   color: #D08770;
 }
 
-.language-haxe .hljs-meta {
+body .language-haxe .hljs-meta {
   color: #D08770;
 }
 
-.language-java .hljs-meta {
+body .language-java .hljs-meta {
   color: #D08770;
 }
 
-.language-ldif .hljs-attribute {
+body .language-ldif .hljs-attribute {
   color: #8FBCBB;
 }
 
-.language-lisp .hljs-name {
+body .language-lisp .hljs-name {
   color: #88C0D0;
 }
 
-.language-lua .hljs-built_in {
+body .language-lua .hljs-built_in {
   color: #88C0D0;
 }
 
-.language-moonscript .hljs-built_in {
+body .language-moonscript .hljs-built_in {
   color: #88C0D0;
 }
 
-.language-nginx .hljs-attribute {
+body .language-nginx .hljs-attribute {
   color: #88C0D0;
 }
 
-.language-nginx .hljs-section {
+body .language-nginx .hljs-section {
   color: #5E81AC;
 }
 
-.language-pf .hljs-built_in {
+body .language-pf .hljs-built_in {
   color: #88C0D0;
 }
 
-.language-processing .hljs-built_in {
+body .language-processing .hljs-built_in {
   color: #88C0D0;
 }
 
-.language-scss .hljs-keyword {
+body .language-scss .hljs-keyword {
   color: #81A1C1;
 }
 
-.language-stylus .hljs-keyword {
+body .language-stylus .hljs-keyword {
   color: #81A1C1;
 }
 
-.language-swift .hljs-meta {
+body .language-swift .hljs-meta {
   color: #D08770;
 }
 
-.language-vim .hljs-built_in {
+body .language-vim .hljs-built_in {
   color: #88C0D0;
   font-style: italic;
 }
 
-.language-yaml .hljs-meta {
+body .language-yaml .hljs-meta {
   color: #D08770;
 }

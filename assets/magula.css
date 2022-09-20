@@ -7,61 +7,61 @@ Date: 2009-01-03
 Music: Aphex Twin / Xtal
 */
 
-.hljs {
+body .hljs {
   background-color: #f4f4f4;
   color: black;
 }
 
-.hljs-subst {
+body .hljs-subst {
   color: black;
 }
 
-.hljs-string,
-.hljs-title,
-.hljs-symbol,
-.hljs-bullet,
-.hljs-attribute,
-.hljs-addition,
-.hljs-variable,
-.hljs-template-tag,
-.hljs-template-variable {
+body .hljs-string,
+body .hljs-title,
+body .hljs-symbol,
+body .hljs-bullet,
+body .hljs-attribute,
+body .hljs-addition,
+body .hljs-variable,
+body .hljs-template-tag,
+body .hljs-template-variable {
   color: #050;
 }
 
-.hljs-comment,
-.hljs-quote {
+body .hljs-comment,
+body .hljs-quote {
   color: #777;
 }
 
-.hljs-number,
-.hljs-regexp,
-.hljs-literal,
-.hljs-type,
-.hljs-link {
+body .hljs-number,
+body .hljs-regexp,
+body .hljs-literal,
+body .hljs-type,
+body .hljs-link {
   color: #800;
 }
 
-.hljs-deletion,
-.hljs-meta {
+body .hljs-deletion,
+body .hljs-meta {
   color: #00e;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-doctag,
-.hljs-title,
-.hljs-section,
-.hljs-built_in,
-.hljs-tag,
-.hljs-name {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-doctag,
+body .hljs-title,
+body .hljs-section,
+body .hljs-built_in,
+body .hljs-tag,
+body .hljs-name {
   font-weight: bold;
   color: navy;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }

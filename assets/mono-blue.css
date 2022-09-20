@@ -1,53 +1,53 @@
 /*
   Five-color theme from a single blue hue.
 */
-.hljs {
+body .hljs {
   background: #eaeef3;
   color: #00193a;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-title,
-.hljs-section,
-.hljs-doctag,
-.hljs-name,
-.hljs-strong {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-title,
+body .hljs-section,
+body .hljs-doctag,
+body .hljs-name,
+body .hljs-strong {
   font-weight: bold;
 }
 
-.hljs-comment {
+body .hljs-comment {
   color: #738191;
 }
 
-.hljs-string,
-.hljs-title,
-.hljs-section,
-.hljs-built_in,
-.hljs-literal,
-.hljs-type,
-.hljs-addition,
-.hljs-tag,
-.hljs-quote,
-.hljs-name,
-.hljs-selector-id,
-.hljs-selector-class {
+body .hljs-string,
+body .hljs-title,
+body .hljs-section,
+body .hljs-built_in,
+body .hljs-literal,
+body .hljs-type,
+body .hljs-addition,
+body .hljs-tag,
+body .hljs-quote,
+body .hljs-name,
+body .hljs-selector-id,
+body .hljs-selector-class {
   color: #0048ab;
 }
 
-.hljs-meta,
-.hljs-subst,
-.hljs-symbol,
-.hljs-regexp,
-.hljs-attribute,
-.hljs-deletion,
-.hljs-variable,
-.hljs-template-variable,
-.hljs-link,
-.hljs-bullet {
+body .hljs-meta,
+body .hljs-subst,
+body .hljs-symbol,
+body .hljs-regexp,
+body .hljs-attribute,
+body .hljs-deletion,
+body .hljs-variable,
+body .hljs-template-variable,
+body .hljs-link,
+body .hljs-bullet {
   color: #4c81c9;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
