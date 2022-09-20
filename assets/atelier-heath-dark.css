@@ -3,56 +3,56 @@
 /* Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16) */
 
 /* Atelier-Heath Comment */
-.hljs-comment,
-.hljs-quote {
+body .hljs-comment,
+body .hljs-quote {
   color: #9e8f9e;
 }
 
 /* Atelier-Heath Red */
-.hljs-variable,
-.hljs-template-variable,
-.hljs-attribute,
-.hljs-tag,
-.hljs-name,
-.hljs-regexp,
-.hljs-link,
-.hljs-name,
-.hljs-selector-id,
-.hljs-selector-class {
+body .hljs-variable,
+body .hljs-template-variable,
+body .hljs-attribute,
+body .hljs-tag,
+body .hljs-name,
+body .hljs-regexp,
+body .hljs-link,
+body .hljs-name,
+body .hljs-selector-id,
+body .hljs-selector-class {
   color: #ca402b;
 }
 
 /* Atelier-Heath Orange */
-.hljs-number,
-.hljs-meta,
-.hljs-built_in,
-.hljs-builtin-name,
-.hljs-literal,
-.hljs-type,
-.hljs-params {
+body .hljs-number,
+body .hljs-meta,
+body .hljs-built_in,
+body .hljs-builtin-name,
+body .hljs-literal,
+body .hljs-type,
+body .hljs-params {
   color: #a65926;
 }
 
 /* Atelier-Heath Green */
-.hljs-string,
-.hljs-symbol,
-.hljs-bullet {
+body .hljs-string,
+body .hljs-symbol,
+body .hljs-bullet {
   color: #918b3b;
 }
 
 /* Atelier-Heath Blue */
-.hljs-title,
-.hljs-section {
+body .hljs-title,
+body .hljs-section {
   color: #516aec;
 }
 
 /* Atelier-Heath Purple */
-.hljs-keyword,
-.hljs-selector-tag {
+body .hljs-keyword,
+body .hljs-selector-tag {
   color: #7b59c0;
 }
 
-.hljs {
+body .hljs {
   display: block;
   overflow-x: auto;
   background: #1b181b;
@@ -60,10 +60,10 @@
   padding: 0.5em;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }

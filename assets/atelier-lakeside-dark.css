@@ -3,56 +3,56 @@
 /* Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16) */
 
 /* Atelier-Lakeside Comment */
-.hljs-comment,
-.hljs-quote {
+body .hljs-comment,
+body .hljs-quote {
   color: #7195a8;
 }
 
 /* Atelier-Lakeside Red */
-.hljs-variable,
-.hljs-template-variable,
-.hljs-attribute,
-.hljs-tag,
-.hljs-name,
-.hljs-regexp,
-.hljs-link,
-.hljs-name,
-.hljs-selector-id,
-.hljs-selector-class {
+body .hljs-variable,
+body .hljs-template-variable,
+body .hljs-attribute,
+body .hljs-tag,
+body .hljs-name,
+body .hljs-regexp,
+body .hljs-link,
+body .hljs-name,
+body .hljs-selector-id,
+body .hljs-selector-class {
   color: #d22d72;
 }
 
 /* Atelier-Lakeside Orange */
-.hljs-number,
-.hljs-meta,
-.hljs-built_in,
-.hljs-builtin-name,
-.hljs-literal,
-.hljs-type,
-.hljs-params {
+body .hljs-number,
+body .hljs-meta,
+body .hljs-built_in,
+body .hljs-builtin-name,
+body .hljs-literal,
+body .hljs-type,
+body .hljs-params {
   color: #935c25;
 }
 
 /* Atelier-Lakeside Green */
-.hljs-string,
-.hljs-symbol,
-.hljs-bullet {
+body .hljs-string,
+body .hljs-symbol,
+body .hljs-bullet {
   color: #568c3b;
 }
 
 /* Atelier-Lakeside Blue */
-.hljs-title,
-.hljs-section {
+body .hljs-title,
+body .hljs-section {
   color: #257fad;
 }
 
 /* Atelier-Lakeside Purple */
-.hljs-keyword,
-.hljs-selector-tag {
+body .hljs-keyword,
+body .hljs-selector-tag {
   color: #6b6bb8;
 }
 
-.hljs {
+body .hljs {
   display: block;
   overflow-x: auto;
   background: #161b1d;
@@ -60,10 +60,10 @@
   padding: 0.5em;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }

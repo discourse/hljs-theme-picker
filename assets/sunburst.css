@@ -4,7 +4,7 @@ Sunburst-like style (c) Vasily Polovnyov <vast@whiteants.net>
 
 */
 
-.hljs {
+body .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
@@ -12,91 +12,91 @@ Sunburst-like style (c) Vasily Polovnyov <vast@whiteants.net>
   color: #f8f8f8;
 }
 
-.hljs-comment,
-.hljs-quote {
+body .hljs-comment,
+body .hljs-quote {
   color: #aeaeae;
   font-style: italic;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-type {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-type {
   color: #e28964;
 }
 
-.hljs-string {
+body .hljs-string {
   color: #65b042;
 }
 
-.hljs-subst {
+body .hljs-subst {
   color: #daefa3;
 }
 
-.hljs-regexp,
-.hljs-link {
+body .hljs-regexp,
+body .hljs-link {
   color: #e9c062;
 }
 
-.hljs-title,
-.hljs-section,
-.hljs-tag,
-.hljs-name {
+body .hljs-title,
+body .hljs-section,
+body .hljs-tag,
+body .hljs-name {
   color: #89bdff;
 }
 
-.hljs-class .hljs-title,
-.hljs-doctag {
+body .hljs-class .hljs-title,
+body .hljs-doctag {
   text-decoration: underline;
 }
 
-.hljs-symbol,
-.hljs-bullet,
-.hljs-number {
+body .hljs-symbol,
+body .hljs-bullet,
+body .hljs-number {
   color: #3387cc;
 }
 
-.hljs-params,
-.hljs-variable,
-.hljs-template-variable {
+body .hljs-params,
+body .hljs-variable,
+body .hljs-template-variable {
   color: #3e87e3;
 }
 
-.hljs-attribute {
+body .hljs-attribute {
   color: #cda869;
 }
 
-.hljs-meta {
+body .hljs-meta {
   color: #8996a8;
 }
 
-.hljs-formula {
+body .hljs-formula {
   background-color: #0e2231;
   color: #f8f8f8;
   font-style: italic;
 }
 
-.hljs-addition {
+body .hljs-addition {
   background-color: #253b22;
   color: #f8f8f8;
 }
 
-.hljs-deletion {
+body .hljs-deletion {
   background-color: #420e09;
   color: #f8f8f8;
 }
 
-.hljs-selector-class {
+body .hljs-selector-class {
   color: #9b703f;
 }
 
-.hljs-selector-id {
+body .hljs-selector-id {
   color: #8b98ab;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }

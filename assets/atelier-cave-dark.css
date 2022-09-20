@@ -3,70 +3,70 @@
 /* Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16) */
 
 /* Atelier-Cave Comment */
-.hljs-comment,
-.hljs-quote {
+body .hljs-comment,
+body .hljs-quote {
   color: #7e7887;
 }
 
 /* Atelier-Cave Red */
-.hljs-variable,
-.hljs-template-variable,
-.hljs-attribute,
-.hljs-regexp,
-.hljs-link,
-.hljs-tag,
-.hljs-name,
-.hljs-selector-id,
-.hljs-selector-class {
+body .hljs-variable,
+body .hljs-template-variable,
+body .hljs-attribute,
+body .hljs-regexp,
+body .hljs-link,
+body .hljs-tag,
+body .hljs-name,
+body .hljs-selector-id,
+body .hljs-selector-class {
   color: #be4678;
 }
 
 /* Atelier-Cave Orange */
-.hljs-number,
-.hljs-meta,
-.hljs-built_in,
-.hljs-builtin-name,
-.hljs-literal,
-.hljs-type,
-.hljs-params {
+body .hljs-number,
+body .hljs-meta,
+body .hljs-built_in,
+body .hljs-builtin-name,
+body .hljs-literal,
+body .hljs-type,
+body .hljs-params {
   color: #aa573c;
 }
 
 /* Atelier-Cave Green */
-.hljs-string,
-.hljs-symbol,
-.hljs-bullet {
+body .hljs-string,
+body .hljs-symbol,
+body .hljs-bullet {
   color: #2a9292;
 }
 
 /* Atelier-Cave Blue */
-.hljs-title,
-.hljs-section {
+body .hljs-title,
+body .hljs-section {
   color: #576ddb;
 }
 
 /* Atelier-Cave Purple */
-.hljs-keyword,
-.hljs-selector-tag {
+body .hljs-keyword,
+body .hljs-selector-tag {
   color: #955ae7;
 }
 
-.hljs-deletion,
-.hljs-addition {
+body .hljs-deletion,
+body .hljs-addition {
   color: #19171c;
   display: inline-block;
   width: 100%;
 }
 
-.hljs-deletion {
+body .hljs-deletion {
   background-color: #be4678;
 }
 
-.hljs-addition {
+body .hljs-addition {
   background-color: #2a9292;
 }
 
-.hljs {
+body .hljs {
   display: block;
   overflow-x: auto;
   background: #19171c;
@@ -74,10 +74,10 @@
   padding: 0.5em;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }

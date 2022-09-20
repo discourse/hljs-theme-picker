@@ -6,58 +6,58 @@
 */
 
 /* Kimbie Comment */
-.hljs-comment,
-.hljs-quote {
+body .hljs-comment,
+body .hljs-quote {
   color: #a57a4c;
 }
 
 /* Kimbie Red */
-.hljs-variable,
-.hljs-template-variable,
-.hljs-tag,
-.hljs-name,
-.hljs-selector-id,
-.hljs-selector-class,
-.hljs-regexp,
-.hljs-meta {
+body .hljs-variable,
+body .hljs-template-variable,
+body .hljs-tag,
+body .hljs-name,
+body .hljs-selector-id,
+body .hljs-selector-class,
+body .hljs-regexp,
+body .hljs-meta {
   color: #dc3958;
 }
 
 /* Kimbie Orange */
-.hljs-number,
-.hljs-built_in,
-.hljs-builtin-name,
-.hljs-literal,
-.hljs-type,
-.hljs-params,
-.hljs-deletion,
-.hljs-link {
+body .hljs-number,
+body .hljs-built_in,
+body .hljs-builtin-name,
+body .hljs-literal,
+body .hljs-type,
+body .hljs-params,
+body .hljs-deletion,
+body .hljs-link {
   color: #f79a32;
 }
 
 /* Kimbie Yellow */
-.hljs-title,
-.hljs-section,
-.hljs-attribute {
+body .hljs-title,
+body .hljs-section,
+body .hljs-attribute {
   color: #f06431;
 }
 
 /* Kimbie Green */
-.hljs-string,
-.hljs-symbol,
-.hljs-bullet,
-.hljs-addition {
+body .hljs-string,
+body .hljs-symbol,
+body .hljs-bullet,
+body .hljs-addition {
   color: #889b4a;
 }
 
 /* Kimbie Purple */
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-function {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-function {
   color: #98676a;
 }
 
-.hljs {
+body .hljs {
   display: block;
   overflow-x: auto;
   background: #fbebd4;
@@ -65,10 +65,10 @@
   padding: 0.5em;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }

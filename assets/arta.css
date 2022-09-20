@@ -3,71 +3,71 @@ Date: 17.V.2011
 Author: pumbur <pumbur@pumbur.net>
 */
 
-.hljs {
+body .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
   background: #222;
 }
 
-.hljs,
-.hljs-subst {
+body .hljs,
+body .hljs-subst {
   color: #aaa;
 }
 
-.hljs-section {
+body .hljs-section {
   color: #fff;
 }
 
-.hljs-comment,
-.hljs-quote,
-.hljs-meta {
+body .hljs-comment,
+body .hljs-quote,
+body .hljs-meta {
   color: #444;
 }
 
-.hljs-string,
-.hljs-symbol,
-.hljs-bullet,
-.hljs-regexp {
+body .hljs-string,
+body .hljs-symbol,
+body .hljs-bullet,
+body .hljs-regexp {
   color: #ffcc33;
 }
 
-.hljs-number,
-.hljs-addition {
+body .hljs-number,
+body .hljs-addition {
   color: #00cc66;
 }
 
-.hljs-built_in,
-.hljs-builtin-name,
-.hljs-literal,
-.hljs-type,
-.hljs-template-variable,
-.hljs-attribute,
-.hljs-link {
+body .hljs-built_in,
+body .hljs-builtin-name,
+body .hljs-literal,
+body .hljs-type,
+body .hljs-template-variable,
+body .hljs-attribute,
+body .hljs-link {
   color: #32aaee;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-name,
-.hljs-selector-id,
-.hljs-selector-class {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-name,
+body .hljs-selector-id,
+body .hljs-selector-class {
   color: #6644aa;
 }
 
-.hljs-title,
-.hljs-variable,
-.hljs-deletion,
-.hljs-template-tag {
+body .hljs-title,
+body .hljs-variable,
+body .hljs-deletion,
+body .hljs-template-tag {
   color: #bb1166;
 }
 
-.hljs-section,
-.hljs-doctag,
-.hljs-strong {
+body .hljs-section,
+body .hljs-doctag,
+body .hljs-strong {
   font-weight: bold;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }

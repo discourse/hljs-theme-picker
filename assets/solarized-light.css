@@ -4,7 +4,7 @@ Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmai
 
 */
 
-.hljs {
+body .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
@@ -12,73 +12,73 @@ Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmai
   color: #657b83;
 }
 
-.hljs-comment,
-.hljs-quote {
+body .hljs-comment,
+body .hljs-quote {
   color: #93a1a1;
 }
 
 /* Solarized Green */
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-addition {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-addition {
   color: #859900;
 }
 
 /* Solarized Cyan */
-.hljs-number,
-.hljs-string,
-.hljs-meta .hljs-meta-string,
-.hljs-literal,
-.hljs-doctag,
-.hljs-regexp {
+body .hljs-number,
+body .hljs-string,
+body .hljs-meta .hljs-meta-string,
+body .hljs-literal,
+body .hljs-doctag,
+body .hljs-regexp {
   color: #2aa198;
 }
 
 /* Solarized Blue */
-.hljs-title,
-.hljs-section,
-.hljs-name,
-.hljs-selector-id,
-.hljs-selector-class {
+body .hljs-title,
+body .hljs-section,
+body .hljs-name,
+body .hljs-selector-id,
+body .hljs-selector-class {
   color: #268bd2;
 }
 
 /* Solarized Yellow */
-.hljs-attribute,
-.hljs-attr,
-.hljs-variable,
-.hljs-template-variable,
-.hljs-class .hljs-title,
-.hljs-type {
+body .hljs-attribute,
+body .hljs-attr,
+body .hljs-variable,
+body .hljs-template-variable,
+body .hljs-class .hljs-title,
+body .hljs-type {
   color: #b58900;
 }
 
 /* Solarized Orange */
-.hljs-symbol,
-.hljs-bullet,
-.hljs-subst,
-.hljs-meta,
-.hljs-meta .hljs-keyword,
-.hljs-selector-attr,
-.hljs-selector-pseudo,
-.hljs-link {
+body .hljs-symbol,
+body .hljs-bullet,
+body .hljs-subst,
+body .hljs-meta,
+body .hljs-meta .hljs-keyword,
+body .hljs-selector-attr,
+body .hljs-selector-pseudo,
+body .hljs-link {
   color: #cb4b16;
 }
 
 /* Solarized Red */
-.hljs-built_in,
-.hljs-deletion {
+body .hljs-built_in,
+body .hljs-deletion {
   color: #dc322f;
 }
 
-.hljs-formula {
+body .hljs-formula {
   background: #eee8d5;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }

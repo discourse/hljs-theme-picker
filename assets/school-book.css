@@ -4,7 +4,7 @@ School Book style from goldblog.com.ua (c) Zaripov Yura <yur4ik7@ukr.net>
 
 */
 
-.hljs {
+body .hljs {
   display: block;
   overflow-x: auto;
   padding: 15px 0.5em 0.5em 30px;
@@ -15,55 +15,55 @@ School Book style from goldblog.com.ua (c) Zaripov Yura <yur4ik7@ukr.net>
   border-bottom: solid 1px #d2e8b9;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-literal {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-literal {
   color: #005599;
   font-weight: bold;
 }
 
-.hljs,
-.hljs-subst {
+body .hljs,
+body .hljs-subst {
   color: #3e5915;
 }
 
-.hljs-string,
-.hljs-title,
-.hljs-section,
-.hljs-type,
-.hljs-symbol,
-.hljs-bullet,
-.hljs-attribute,
-.hljs-built_in,
-.hljs-builtin-name,
-.hljs-addition,
-.hljs-variable,
-.hljs-template-tag,
-.hljs-template-variable,
-.hljs-link {
+body .hljs-string,
+body .hljs-title,
+body .hljs-section,
+body .hljs-type,
+body .hljs-symbol,
+body .hljs-bullet,
+body .hljs-attribute,
+body .hljs-built_in,
+body .hljs-builtin-name,
+body .hljs-addition,
+body .hljs-variable,
+body .hljs-template-tag,
+body .hljs-template-variable,
+body .hljs-link {
   color: #2c009f;
 }
 
-.hljs-comment,
-.hljs-quote,
-.hljs-deletion,
-.hljs-meta {
+body .hljs-comment,
+body .hljs-quote,
+body .hljs-deletion,
+body .hljs-meta {
   color: #e60415;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-literal,
-.hljs-doctag,
-.hljs-title,
-.hljs-section,
-.hljs-type,
-.hljs-name,
-.hljs-selector-id,
-.hljs-strong {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-literal,
+body .hljs-doctag,
+body .hljs-title,
+body .hljs-section,
+body .hljs-type,
+body .hljs-name,
+body .hljs-selector-id,
+body .hljs-strong {
   font-weight: bold;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }

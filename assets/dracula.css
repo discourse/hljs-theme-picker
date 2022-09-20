@@ -14,63 +14,63 @@ http://zenorocha.mit-license.org
 
 */
 
-.hljs {
+body .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
   background: #282a36;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-literal,
-.hljs-section,
-.hljs-link {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-literal,
+body .hljs-section,
+body .hljs-link {
   color: #8be9fd;
 }
 
-.hljs-function .hljs-keyword {
+body .hljs-function .hljs-keyword {
   color: #ff79c6;
 }
 
-.hljs,
-.hljs-subst {
+body .hljs,
+body .hljs-subst {
   color: #f8f8f2;
 }
 
-.hljs-string,
-.hljs-title,
-.hljs-name,
-.hljs-type,
-.hljs-attribute,
-.hljs-symbol,
-.hljs-bullet,
-.hljs-addition,
-.hljs-variable,
-.hljs-template-tag,
-.hljs-template-variable {
+body .hljs-string,
+body .hljs-title,
+body .hljs-name,
+body .hljs-type,
+body .hljs-attribute,
+body .hljs-symbol,
+body .hljs-bullet,
+body .hljs-addition,
+body .hljs-variable,
+body .hljs-template-tag,
+body .hljs-template-variable {
   color: #f1fa8c;
 }
 
-.hljs-comment,
-.hljs-quote,
-.hljs-deletion,
-.hljs-meta {
+body .hljs-comment,
+body .hljs-quote,
+body .hljs-deletion,
+body .hljs-meta {
   color: #6272a4;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-literal,
-.hljs-title,
-.hljs-section,
-.hljs-doctag,
-.hljs-type,
-.hljs-name,
-.hljs-strong {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-literal,
+body .hljs-title,
+body .hljs-section,
+body .hljs-doctag,
+body .hljs-type,
+body .hljs-name,
+body .hljs-strong {
   font-weight: bold;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }

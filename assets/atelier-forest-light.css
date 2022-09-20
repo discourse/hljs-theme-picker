@@ -3,56 +3,56 @@
 /* Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16) */
 
 /* Atelier-Forest Comment */
-.hljs-comment,
-.hljs-quote {
+body .hljs-comment,
+body .hljs-quote {
   color: #766e6b;
 }
 
 /* Atelier-Forest Red */
-.hljs-variable,
-.hljs-template-variable,
-.hljs-attribute,
-.hljs-tag,
-.hljs-name,
-.hljs-regexp,
-.hljs-link,
-.hljs-name,
-.hljs-selector-id,
-.hljs-selector-class {
+body .hljs-variable,
+body .hljs-template-variable,
+body .hljs-attribute,
+body .hljs-tag,
+body .hljs-name,
+body .hljs-regexp,
+body .hljs-link,
+body .hljs-name,
+body .hljs-selector-id,
+body .hljs-selector-class {
   color: #f22c40;
 }
 
 /* Atelier-Forest Orange */
-.hljs-number,
-.hljs-meta,
-.hljs-built_in,
-.hljs-builtin-name,
-.hljs-literal,
-.hljs-type,
-.hljs-params {
+body .hljs-number,
+body .hljs-meta,
+body .hljs-built_in,
+body .hljs-builtin-name,
+body .hljs-literal,
+body .hljs-type,
+body .hljs-params {
   color: #df5320;
 }
 
 /* Atelier-Forest Green */
-.hljs-string,
-.hljs-symbol,
-.hljs-bullet {
+body .hljs-string,
+body .hljs-symbol,
+body .hljs-bullet {
   color: #7b9726;
 }
 
 /* Atelier-Forest Blue */
-.hljs-title,
-.hljs-section {
+body .hljs-title,
+body .hljs-section {
   color: #407ee7;
 }
 
 /* Atelier-Forest Purple */
-.hljs-keyword,
-.hljs-selector-tag {
+body .hljs-keyword,
+body .hljs-selector-tag {
   color: #6666ea;
 }
 
-.hljs {
+body .hljs {
   display: block;
   overflow-x: auto;
   background: #f1efee;
@@ -60,10 +60,10 @@
   padding: 0.5em;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }

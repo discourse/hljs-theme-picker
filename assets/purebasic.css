@@ -21,7 +21,7 @@ NOTE_2:	Color names provided in comments were derived using "Name that Color" on
 			http://chir.ag/projects/name-that-color
 */
 
-.hljs {
+body .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
@@ -31,66 +31,66 @@ NOTE_2:	Color names provided in comments were derived using "Name that Color" on
 */
 }
 
-.hljs, /* --- used for PureBASIC base color --- */
-.hljs-type,  /* --- used for PureBASIC Procedures return type --- */
-.hljs-function, /* --- used for wrapping PureBASIC Procedures definitions --- */
-.hljs-name,
-.hljs-number,
-.hljs-attr,
-.hljs-params,
-.hljs-subst {
+body .hljs, /* --- used for PureBASIC base color --- */
+body .hljs-type,  /* --- used for PureBASIC Procedures return type --- */
+body .hljs-function, /* --- used for wrapping PureBASIC Procedures definitions --- */
+body .hljs-name,
+body .hljs-number,
+body .hljs-attr,
+body .hljs-params,
+body .hljs-subst {
   color: #000000; /* Black */
 }
 
-.hljs-comment, /* --- used for PureBASIC Comments --- */
-.hljs-regexp,
-.hljs-section,
-.hljs-selector-pseudo,
-.hljs-addition {
+body .hljs-comment, /* --- used for PureBASIC Comments --- */
+body .hljs-regexp,
+body .hljs-section,
+body .hljs-selector-pseudo,
+body .hljs-addition {
   color: #00aaaa; /* Persian Green (approx.) */
 }
 
-.hljs-title, /* --- used for PureBASIC Procedures Names --- */
-.hljs-tag,
-.hljs-variable,
-.hljs-code {
+body .hljs-title, /* --- used for PureBASIC Procedures Names --- */
+body .hljs-tag,
+body .hljs-variable,
+body .hljs-code {
   color: #006666; /* Blue Stone (approx.) */
 }
 
-.hljs-keyword, /* --- used for PureBASIC Keywords --- */
-.hljs-class,
-.hljs-meta-keyword,
-.hljs-selector-class,
-.hljs-built_in,
-.hljs-builtin-name {
+body .hljs-keyword, /* --- used for PureBASIC Keywords --- */
+body .hljs-class,
+body .hljs-meta-keyword,
+body .hljs-selector-class,
+body .hljs-built_in,
+body .hljs-builtin-name {
   color: #006666; /* Blue Stone (approx.) */
   font-weight: bold;
 }
 
-.hljs-string, /* --- used for PureBASIC Strings --- */
-.hljs-selector-attr {
+body .hljs-string, /* --- used for PureBASIC Strings --- */
+body .hljs-selector-attr {
   color: #0080ff; /* Azure Radiance (approx.) */
 }
 
-.hljs-symbol, /* --- used for PureBASIC Constants --- */
-.hljs-link,
-.hljs-deletion,
-.hljs-attribute {
+body .hljs-symbol, /* --- used for PureBASIC Constants --- */
+body .hljs-link,
+body .hljs-deletion,
+body .hljs-attribute {
   color: #924b72; /* Cannon Pink (approx.) */
 }
 
-.hljs-meta,
-.hljs-literal,
-.hljs-selector-id {
+body .hljs-meta,
+body .hljs-literal,
+body .hljs-selector-id {
   color: #924b72; /* Cannon Pink (approx.) */
   font-weight: bold;
 }
 
-.hljs-strong,
-.hljs-name {
+body .hljs-strong,
+body .hljs-name {
   font-weight: bold;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }

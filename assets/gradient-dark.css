@@ -4,7 +4,7 @@ Gradient Dark (c) Samia Ali <samiaab1990@gmail.com>
 
 */
 
-.hljs {
+body .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
@@ -17,88 +17,88 @@ Gradient Dark (c) Samia Ali <samiaab1990@gmail.com>
   color: #e7e4eb;
 }
 
-.hljs-subtr {
+body .hljs-subtr {
   color: #e7e4eb;
 }
 
-.hljs-doctag,
-.hljs-meta,
-.hljs-comment,
-.hljs-quote {
+body .hljs-doctag,
+body .hljs-meta,
+body .hljs-comment,
+body .hljs-quote {
   color: #af8dd9;
 }
 
-.hljs-selector-tag,
-.hljs-selector-id,
-.hljs-template-tag,
-.hljs-regexp,
-.hljs-attr,
-.hljs-tag {
+body .hljs-selector-tag,
+body .hljs-selector-id,
+body .hljs-template-tag,
+body .hljs-regexp,
+body .hljs-attr,
+body .hljs-tag {
   color: #aefbff;
 }
 
-.hljs-params,
-.hljs-selector-class,
-.hljs-bullet {
+body .hljs-params,
+body .hljs-selector-class,
+body .hljs-bullet {
   color: #f19fff;
 }
 
-.hljs-keyword,
-.hljs-section,
-.hljs-meta-keyword,
-.hljs-symbol,
-.hljs-type {
+body .hljs-keyword,
+body .hljs-section,
+body .hljs-meta-keyword,
+body .hljs-symbol,
+body .hljs-type {
   color: #17fc95;
 }
 
-.hljs-addition,
-.hljs-number,
-.hljs-link {
+body .hljs-addition,
+body .hljs-number,
+body .hljs-link {
   color: #c5fe00;
 }
 
-.hljs-string {
+body .hljs-string {
   color: #38c0ff;
 }
 
-.hljs-attribute,
-.hljs-addition {
+body .hljs-attribute,
+body .hljs-addition {
   color: #e7ff9f;
 }
 
-.hljs-variable,
-.hljs-template-variable {
+body .hljs-variable,
+body .hljs-template-variable {
   color: #e447ff;
 }
 
-.hljs-builtin-name,
-.hljs-built_in,
-.hljs-formula,
-.hljs-name,
-.hljs-title,
-.hljs-class,
-.hljs-function {
+body .hljs-builtin-name,
+body .hljs-built_in,
+body .hljs-formula,
+body .hljs-name,
+body .hljs-title,
+body .hljs-class,
+body .hljs-function {
   color: #ffc800;
 }
 
-.hljs-selector-pseudo,
-.hljs-deletion,
-.hljs-literal {
+body .hljs-selector-pseudo,
+body .hljs-deletion,
+body .hljs-literal {
   color: #ff9e44;
 }
 
-.hljs-emphasis,
-.hljs-quote {
+body .hljs-emphasis,
+body .hljs-quote {
   font-style: italic;
 }
 
-.hljs-params,
-.hljs-selector-class,
-.hljs-strong,
-.hljs-selector-tag,
-.hljs-selector-id,
-.hljs-template-tag,
-.hljs-section,
-.hljs-keyword {
+body .hljs-params,
+body .hljs-selector-class,
+body .hljs-strong,
+body .hljs-selector-tag,
+body .hljs-selector-id,
+body .hljs-template-tag,
+body .hljs-section,
+body .hljs-keyword {
   font-weight: bold;
 }

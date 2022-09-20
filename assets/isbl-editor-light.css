@@ -4,7 +4,7 @@ ISBL Editor style light color schemec (c) Dmitriy Tarasov <dimatar@gmail.com>
 
 */
 
-.hljs {
+body .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
@@ -14,96 +14,96 @@ ISBL Editor style light color schemec (c) Dmitriy Tarasov <dimatar@gmail.com>
 
 /* Base color: saturation 0; */
 
-.hljs-subst {
+body .hljs-subst {
   color: black;
 }
 
-.hljs-comment {
+body .hljs-comment {
   color: #555555;
   font-style: italic;
 }
 
-.hljs-keyword,
-.hljs-attribute,
-.hljs-selector-tag,
-.hljs-meta-keyword,
-.hljs-doctag,
-.hljs-name {
+body .hljs-keyword,
+body .hljs-attribute,
+body .hljs-selector-tag,
+body .hljs-meta-keyword,
+body .hljs-doctag,
+body .hljs-name {
   color: #000000;
   font-weight: bold;
 }
 
 /* User color: hue: 0 */
 
-.hljs-string {
+body .hljs-string {
   color: #000080;
 }
 
-.hljs-type,
-.hljs-number,
-.hljs-selector-id,
-.hljs-selector-class,
-.hljs-quote,
-.hljs-template-tag,
-.hljs-deletion {
+body .hljs-type,
+body .hljs-number,
+body .hljs-selector-id,
+body .hljs-selector-class,
+body .hljs-quote,
+body .hljs-template-tag,
+body .hljs-deletion {
   color: #000000;
 }
 
-.hljs-title,
-.hljs-section {
+body .hljs-title,
+body .hljs-section {
   color: #fb2c00;
 }
 
-.hljs-title > .hljs-built_in {
+body .hljs-title > .hljs-built_in {
   color: #008080;
   font-weight: normal;
 }
 
-.hljs-regexp,
-.hljs-symbol,
-.hljs-variable,
-.hljs-template-variable,
-.hljs-link,
-.hljs-selector-attr,
-.hljs-selector-pseudo {
+body .hljs-regexp,
+body .hljs-symbol,
+body .hljs-variable,
+body .hljs-template-variable,
+body .hljs-link,
+body .hljs-selector-attr,
+body .hljs-selector-pseudo {
   color: #5e1700;
 }
 
 /* Language color: hue: 90; */
 
-.hljs-built_in,
-.hljs-literal {
+body .hljs-built_in,
+body .hljs-literal {
   color: #000080;
   font-weight: bold;
 }
 
-.hljs-bullet,
-.hljs-code,
-.hljs-addition {
+body .hljs-bullet,
+body .hljs-code,
+body .hljs-addition {
   color: #397300;
 }
 
-.hljs-class {
+body .hljs-class {
   color: #6f1c00;
   font-weight: bold;
 }
 
 /* Meta color: hue: 200 */
 
-.hljs-meta {
+body .hljs-meta {
   color: #1f7199;
 }
 
-.hljs-meta-string {
+body .hljs-meta-string {
   color: #4d99bf;
 }
 
 /* Misc effects */
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }

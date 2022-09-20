@@ -4,68 +4,68 @@ FAR Style (c) MajestiC <majestic2k@gmail.com>
 
 */
 
-.hljs {
+body .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
   background: #000080;
 }
 
-.hljs,
-.hljs-subst {
+body .hljs,
+body .hljs-subst {
   color: #0ff;
 }
 
-.hljs-string,
-.hljs-attribute,
-.hljs-symbol,
-.hljs-bullet,
-.hljs-built_in,
-.hljs-builtin-name,
-.hljs-template-tag,
-.hljs-template-variable,
-.hljs-addition {
+body .hljs-string,
+body .hljs-attribute,
+body .hljs-symbol,
+body .hljs-bullet,
+body .hljs-built_in,
+body .hljs-builtin-name,
+body .hljs-template-tag,
+body .hljs-template-variable,
+body .hljs-addition {
   color: #ff0;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-section,
-.hljs-type,
-.hljs-name,
-.hljs-selector-id,
-.hljs-selector-class,
-.hljs-variable {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-section,
+body .hljs-type,
+body .hljs-name,
+body .hljs-selector-id,
+body .hljs-selector-class,
+body .hljs-variable {
   color: #fff;
 }
 
-.hljs-comment,
-.hljs-quote,
-.hljs-doctag,
-.hljs-deletion {
+body .hljs-comment,
+body .hljs-quote,
+body .hljs-doctag,
+body .hljs-deletion {
   color: #888;
 }
 
-.hljs-number,
-.hljs-regexp,
-.hljs-literal,
-.hljs-link {
+body .hljs-number,
+body .hljs-regexp,
+body .hljs-literal,
+body .hljs-link {
   color: #0f0;
 }
 
-.hljs-meta {
+body .hljs-meta {
   color: #008080;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-title,
-.hljs-section,
-.hljs-name,
-.hljs-strong {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-title,
+body .hljs-section,
+body .hljs-name,
+body .hljs-strong {
   font-weight: bold;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }

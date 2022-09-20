@@ -10,300 +10,300 @@
  *   https://github.com/arcticicestudio/nord
  */
 
-.hljs {
+body .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
   background: #2e3440;
 }
 
-.hljs,
-.hljs-subst {
+body .hljs,
+body .hljs-subst {
   color: #d8dee9;
 }
 
-.hljs-selector-tag {
+body .hljs-selector-tag {
   color: #81a1c1;
 }
 
-.hljs-selector-id {
+body .hljs-selector-id {
   color: #8fbcbb;
   font-weight: bold;
 }
 
-.hljs-selector-class {
+body .hljs-selector-class {
   color: #8fbcbb;
 }
 
-.hljs-selector-attr {
+body .hljs-selector-attr {
   color: #8fbcbb;
 }
 
-.hljs-selector-pseudo {
+body .hljs-selector-pseudo {
   color: #88c0d0;
 }
 
-.hljs-addition {
+body .hljs-addition {
   background-color: rgba(163, 190, 140, 0.5);
 }
 
-.hljs-deletion {
+body .hljs-deletion {
   background-color: rgba(191, 97, 106, 0.5);
 }
 
-.hljs-built_in,
-.hljs-type {
+body .hljs-built_in,
+body .hljs-type {
   color: #8fbcbb;
 }
 
-.hljs-class {
+body .hljs-class {
   color: #8fbcbb;
 }
 
-.hljs-function {
+body .hljs-function {
   color: #88c0d0;
 }
 
-.hljs-function > .hljs-title {
+body .hljs-function > .hljs-title {
   color: #88c0d0;
 }
 
-.hljs-keyword,
-.hljs-literal,
-.hljs-symbol {
+body .hljs-keyword,
+body .hljs-literal,
+body .hljs-symbol {
   color: #81a1c1;
 }
 
-.hljs-number {
+body .hljs-number {
   color: #b48ead;
 }
 
-.hljs-regexp {
+body .hljs-regexp {
   color: #ebcb8b;
 }
 
-.hljs-string {
+body .hljs-string {
   color: #a3be8c;
 }
 
-.hljs-title {
+body .hljs-title {
   color: #8fbcbb;
 }
 
-.hljs-params {
+body .hljs-params {
   color: #d8dee9;
 }
 
-.hljs-bullet {
+body .hljs-bullet {
   color: #81a1c1;
 }
 
-.hljs-code {
+body .hljs-code {
   color: #8fbcbb;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-formula {
+body .hljs-formula {
   color: #8fbcbb;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }
 
-.hljs-link:hover {
+body .hljs-link:hover {
   text-decoration: underline;
 }
 
-.hljs-quote {
+body .hljs-quote {
   color: #4c566a;
 }
 
-.hljs-comment {
+body .hljs-comment {
   color: #4c566a;
 }
 
-.hljs-doctag {
+body .hljs-doctag {
   color: #8fbcbb;
 }
 
-.hljs-meta,
-.hljs-meta-keyword {
+body .hljs-meta,
+body .hljs-meta-keyword {
   color: #5e81ac;
 }
 
-.hljs-meta-string {
+body .hljs-meta-string {
   color: #a3be8c;
 }
 
-.hljs-attr {
+body .hljs-attr {
   color: #8fbcbb;
 }
 
-.hljs-attribute {
+body .hljs-attribute {
   color: #d8dee9;
 }
 
-.hljs-builtin-name {
+body .hljs-builtin-name {
   color: #81a1c1;
 }
 
-.hljs-name {
+body .hljs-name {
   color: #81a1c1;
 }
 
-.hljs-section {
+body .hljs-section {
   color: #88c0d0;
 }
 
-.hljs-tag {
+body .hljs-tag {
   color: #81a1c1;
 }
 
-.hljs-variable {
+body .hljs-variable {
   color: #d8dee9;
 }
 
-.hljs-template-variable {
+body .hljs-template-variable {
   color: #d8dee9;
 }
 
-.hljs-template-tag {
+body .hljs-template-tag {
   color: #5e81ac;
 }
 
-.abnf .hljs-attribute {
+body .abnf .hljs-attribute {
   color: #88c0d0;
 }
 
-.abnf .hljs-symbol {
+body .abnf .hljs-symbol {
   color: #ebcb8b;
 }
 
-.apache .hljs-attribute {
+body .apache .hljs-attribute {
   color: #88c0d0;
 }
 
-.apache .hljs-section {
+body .apache .hljs-section {
   color: #81a1c1;
 }
 
-.arduino .hljs-built_in {
+body .arduino .hljs-built_in {
   color: #88c0d0;
 }
 
-.aspectj .hljs-meta {
+body .aspectj .hljs-meta {
   color: #d08770;
 }
 
-.aspectj > .hljs-title {
+body .aspectj > .hljs-title {
   color: #88c0d0;
 }
 
-.bnf .hljs-attribute {
+body .bnf .hljs-attribute {
   color: #8fbcbb;
 }
 
-.clojure .hljs-name {
+body .clojure .hljs-name {
   color: #88c0d0;
 }
 
-.clojure .hljs-symbol {
+body .clojure .hljs-symbol {
   color: #ebcb8b;
 }
 
-.coq .hljs-built_in {
+body .coq .hljs-built_in {
   color: #88c0d0;
 }
 
-.cpp .hljs-meta-string {
+body .cpp .hljs-meta-string {
   color: #8fbcbb;
 }
 
-.css .hljs-built_in {
+body .css .hljs-built_in {
   color: #88c0d0;
 }
 
-.css .hljs-keyword {
+body .css .hljs-keyword {
   color: #d08770;
 }
 
-.diff .hljs-meta {
+body .diff .hljs-meta {
   color: #8fbcbb;
 }
 
-.ebnf .hljs-attribute {
+body .ebnf .hljs-attribute {
   color: #8fbcbb;
 }
 
-.glsl .hljs-built_in {
+body .glsl .hljs-built_in {
   color: #88c0d0;
 }
 
-.groovy .hljs-meta:not(:first-child) {
+body .groovy .hljs-meta:not(:first-child) {
   color: #d08770;
 }
 
-.haxe .hljs-meta {
+body .haxe .hljs-meta {
   color: #d08770;
 }
 
-.java .hljs-meta {
+body .java .hljs-meta {
   color: #d08770;
 }
 
-.ldif .hljs-attribute {
+body .ldif .hljs-attribute {
   color: #8fbcbb;
 }
 
-.lisp .hljs-name {
+body .lisp .hljs-name {
   color: #88c0d0;
 }
 
-.lua .hljs-built_in {
+body .lua .hljs-built_in {
   color: #88c0d0;
 }
 
-.moonscript .hljs-built_in {
+body .moonscript .hljs-built_in {
   color: #88c0d0;
 }
 
-.nginx .hljs-attribute {
+body .nginx .hljs-attribute {
   color: #88c0d0;
 }
 
-.nginx .hljs-section {
+body .nginx .hljs-section {
   color: #5e81ac;
 }
 
-.pf .hljs-built_in {
+body .pf .hljs-built_in {
   color: #88c0d0;
 }
 
-.processing .hljs-built_in {
+body .processing .hljs-built_in {
   color: #88c0d0;
 }
 
-.scss .hljs-keyword {
+body .scss .hljs-keyword {
   color: #81a1c1;
 }
 
-.stylus .hljs-keyword {
+body .stylus .hljs-keyword {
   color: #81a1c1;
 }
 
-.swift .hljs-meta {
+body .swift .hljs-meta {
   color: #d08770;
 }
 
-.vim .hljs-built_in {
+body .vim .hljs-built_in {
   color: #88c0d0;
   font-style: italic;
 }
 
-.yaml .hljs-meta {
+body .yaml .hljs-meta {
   color: #d08770;
 }

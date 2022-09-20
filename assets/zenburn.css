@@ -5,7 +5,7 @@ based on dark.css by Ivan Sagalaev
 
 */
 
-.hljs {
+body .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
@@ -13,67 +13,67 @@ based on dark.css by Ivan Sagalaev
   color: #dcdcdc;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-tag {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-tag {
   color: #e3ceab;
 }
 
-.hljs-template-tag {
+body .hljs-template-tag {
   color: #dcdcdc;
 }
 
-.hljs-number {
+body .hljs-number {
   color: #8cd0d3;
 }
 
-.hljs-variable,
-.hljs-template-variable,
-.hljs-attribute {
+body .hljs-variable,
+body .hljs-template-variable,
+body .hljs-attribute {
   color: #efdcbc;
 }
 
-.hljs-literal {
+body .hljs-literal {
   color: #efefaf;
 }
 
-.hljs-subst {
+body .hljs-subst {
   color: #8f8f8f;
 }
 
-.hljs-title,
-.hljs-name,
-.hljs-selector-id,
-.hljs-selector-class,
-.hljs-section,
-.hljs-type {
+body .hljs-title,
+body .hljs-name,
+body .hljs-selector-id,
+body .hljs-selector-class,
+body .hljs-section,
+body .hljs-type {
   color: #efef8f;
 }
 
-.hljs-symbol,
-.hljs-bullet,
-.hljs-link {
+body .hljs-symbol,
+body .hljs-bullet,
+body .hljs-link {
   color: #dca3a3;
 }
 
-.hljs-deletion,
-.hljs-string,
-.hljs-built_in,
-.hljs-builtin-name {
+body .hljs-deletion,
+body .hljs-string,
+body .hljs-built_in,
+body .hljs-builtin-name {
   color: #cc9393;
 }
 
-.hljs-addition,
-.hljs-comment,
-.hljs-quote,
-.hljs-meta {
+body .hljs-addition,
+body .hljs-comment,
+body .hljs-quote,
+body .hljs-meta {
   color: #7f9f7f;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }

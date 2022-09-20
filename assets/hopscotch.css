@@ -7,67 +7,67 @@
  */
 
 /* Comment */
-.hljs-comment,
-.hljs-quote {
+body .hljs-comment,
+body .hljs-quote {
   color: #989498;
 }
 
 /* Red */
-.hljs-variable,
-.hljs-template-variable,
-.hljs-attribute,
-.hljs-tag,
-.hljs-name,
-.hljs-selector-id,
-.hljs-selector-class,
-.hljs-regexp,
-.hljs-link,
-.hljs-deletion {
+body .hljs-variable,
+body .hljs-template-variable,
+body .hljs-attribute,
+body .hljs-tag,
+body .hljs-name,
+body .hljs-selector-id,
+body .hljs-selector-class,
+body .hljs-regexp,
+body .hljs-link,
+body .hljs-deletion {
   color: #dd464c;
 }
 
 /* Orange */
-.hljs-number,
-.hljs-built_in,
-.hljs-builtin-name,
-.hljs-literal,
-.hljs-type,
-.hljs-params {
+body .hljs-number,
+body .hljs-built_in,
+body .hljs-builtin-name,
+body .hljs-literal,
+body .hljs-type,
+body .hljs-params {
   color: #fd8b19;
 }
 
 /* Yellow */
-.hljs-class .hljs-title {
+body .hljs-class .hljs-title {
   color: #fdcc59;
 }
 
 /* Green */
-.hljs-string,
-.hljs-symbol,
-.hljs-bullet,
-.hljs-addition {
+body .hljs-string,
+body .hljs-symbol,
+body .hljs-bullet,
+body .hljs-addition {
   color: #8fc13e;
 }
 
 /* Aqua */
-.hljs-meta {
+body .hljs-meta {
   color: #149b93;
 }
 
 /* Blue */
-.hljs-function,
-.hljs-section,
-.hljs-title {
+body .hljs-function,
+body .hljs-section,
+body .hljs-title {
   color: #1290bf;
 }
 
 /* Purple */
-.hljs-keyword,
-.hljs-selector-tag {
+body .hljs-keyword,
+body .hljs-selector-tag {
   color: #c85e7c;
 }
 
-.hljs {
+body .hljs {
   display: block;
   overflow-x: auto;
   background: #322931;
@@ -75,10 +75,10 @@
   padding: 0.5em;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }

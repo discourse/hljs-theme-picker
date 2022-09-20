@@ -4,7 +4,7 @@ Darcula color scheme from the JetBrains family of IDEs
 
 */
 
-.hljs {
+body .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
@@ -12,62 +12,62 @@ Darcula color scheme from the JetBrains family of IDEs
   color: #bababa;
 }
 
-.hljs-strong,
-.hljs-emphasis {
+body .hljs-strong,
+body .hljs-emphasis {
   color: #a8a8a2;
 }
 
-.hljs-bullet,
-.hljs-quote,
-.hljs-link,
-.hljs-number,
-.hljs-regexp,
-.hljs-literal {
+body .hljs-bullet,
+body .hljs-quote,
+body .hljs-link,
+body .hljs-number,
+body .hljs-regexp,
+body .hljs-literal {
   color: #6896ba;
 }
 
-.hljs-code,
-.hljs-selector-class {
+body .hljs-code,
+body .hljs-selector-class {
   color: #a6e22e;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-section,
-.hljs-attribute,
-.hljs-name,
-.hljs-variable {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-section,
+body .hljs-attribute,
+body .hljs-name,
+body .hljs-variable {
   color: #cb7832;
 }
 
-.hljs-params {
+body .hljs-params {
   color: #b9b9b9;
 }
 
-.hljs-string {
+body .hljs-string {
   color: #6a8759;
 }
 
-.hljs-subst,
-.hljs-type,
-.hljs-built_in,
-.hljs-builtin-name,
-.hljs-symbol,
-.hljs-selector-id,
-.hljs-selector-attr,
-.hljs-selector-pseudo,
-.hljs-template-tag,
-.hljs-template-variable,
-.hljs-addition {
+body .hljs-subst,
+body .hljs-type,
+body .hljs-built_in,
+body .hljs-builtin-name,
+body .hljs-symbol,
+body .hljs-selector-id,
+body .hljs-selector-attr,
+body .hljs-selector-pseudo,
+body .hljs-template-tag,
+body .hljs-template-variable,
+body .hljs-addition {
   color: #e0c46c;
 }
 
-.hljs-comment,
-.hljs-deletion,
-.hljs-meta {
+body .hljs-comment,
+body .hljs-deletion,
+body .hljs-meta {
   color: #7f7f7f;
 }

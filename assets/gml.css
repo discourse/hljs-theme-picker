@@ -4,7 +4,7 @@ GML Theme - Meseta <meseta@gmail.com>
 
 */
 
-.hljs {
+body .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
@@ -12,67 +12,67 @@ GML Theme - Meseta <meseta@gmail.com>
   color: #c0c0c0;
 }
 
-.hljs-keyword {
+body .hljs-keyword {
   color: #ffb871;
   font-weight: bold;
 }
 
-.hljs-built_in {
+body .hljs-built_in {
   color: #ffb871;
 }
 
-.hljs-literal {
+body .hljs-literal {
   color: #ff8080;
 }
 
-.hljs-symbol {
+body .hljs-symbol {
   color: #58e55a;
 }
 
-.hljs-comment {
+body .hljs-comment {
   color: #5b995b;
 }
 
-.hljs-string {
+body .hljs-string {
   color: #ffff00;
 }
 
-.hljs-number {
+body .hljs-number {
   color: #ff8080;
 }
 
-.hljs-attribute,
-.hljs-selector-tag,
-.hljs-doctag,
-.hljs-name,
-.hljs-bullet,
-.hljs-code,
-.hljs-addition,
-.hljs-regexp,
-.hljs-variable,
-.hljs-template-variable,
-.hljs-link,
-.hljs-selector-attr,
-.hljs-selector-pseudo,
-.hljs-type,
-.hljs-selector-id,
-.hljs-selector-class,
-.hljs-quote,
-.hljs-template-tag,
-.hljs-deletion,
-.hljs-title,
-.hljs-section,
-.hljs-function,
-.hljs-meta-keyword,
-.hljs-meta,
-.hljs-subst {
+body .hljs-attribute,
+body .hljs-selector-tag,
+body .hljs-doctag,
+body .hljs-name,
+body .hljs-bullet,
+body .hljs-code,
+body .hljs-addition,
+body .hljs-regexp,
+body .hljs-variable,
+body .hljs-template-variable,
+body .hljs-link,
+body .hljs-selector-attr,
+body .hljs-selector-pseudo,
+body .hljs-type,
+body .hljs-selector-id,
+body .hljs-selector-class,
+body .hljs-quote,
+body .hljs-template-tag,
+body .hljs-deletion,
+body .hljs-title,
+body .hljs-section,
+body .hljs-function,
+body .hljs-meta-keyword,
+body .hljs-meta,
+body .hljs-subst {
   color: #c0c0c0;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-strong {
+body .hljs-strong {
   font-weight: bold;
 }
