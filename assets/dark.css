@@ -4,60 +4,58 @@ Dark style from softwaremaniacs.org (c) Ivan Sagalaev <Maniac@SoftwareManiacs.Or
 
 */
 
-.hljs {
-  display: block;
-  overflow-x: auto;
-  padding: 0.5em;
-  background: #444;
+body .hljs {
+  color: #ddd;
+  background: #303030;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-literal,
-.hljs-section,
-.hljs-link {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-literal,
+body .hljs-section,
+body .hljs-link {
   color: white;
 }
 
-.hljs,
-.hljs-subst {
-  color: #ddd;
+
+body .hljs-subst {
+  /* default */
 }
 
-.hljs-string,
-.hljs-title,
-.hljs-name,
-.hljs-type,
-.hljs-attribute,
-.hljs-symbol,
-.hljs-bullet,
-.hljs-built_in,
-.hljs-addition,
-.hljs-variable,
-.hljs-template-tag,
-.hljs-template-variable {
+body .hljs-string,
+body .hljs-title,
+body .hljs-name,
+body .hljs-type,
+body .hljs-attribute,
+body .hljs-symbol,
+body .hljs-bullet,
+body .hljs-built_in,
+body .hljs-addition,
+body .hljs-variable,
+body .hljs-template-tag,
+body .hljs-template-variable {
   color: #d88;
 }
 
-.hljs-comment,
-.hljs-quote,
-.hljs-deletion,
-.hljs-meta {
-  color: #777;
+body .hljs-comment,
+body .hljs-quote,
+body .hljs-deletion,
+body .hljs-meta {
+  color: #979797;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-literal,
-.hljs-title,
-.hljs-section,
-.hljs-doctag,
-.hljs-type,
-.hljs-name,
-.hljs-strong {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-literal,
+body .hljs-title,
+body .hljs-section,
+body .hljs-doctag,
+body .hljs-type,
+body .hljs-name,
+body .hljs-strong {
   font-weight: bold;
 }
 
-.hljs-emphasis {
+body .hljs-emphasis {
   font-style: italic;
 }

@@ -3,86 +3,81 @@
  * ported by Alexander Marenin (http://github.com/ioncreature)
  */
 
-.hljs {
-  display: block;
-  overflow-x: auto;
-  padding: 0.5em;
+body .hljs {
+  color: #e0e2e4;
   background: #282b2e;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-literal,
-.hljs-selector-id {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-literal,
+body .hljs-selector-id {
   color: #93c763;
 }
 
-.hljs-number {
+body .hljs-number {
   color: #ffcd22;
 }
 
-.hljs {
-  color: #e0e2e4;
-}
-
-.hljs-attribute {
+body .hljs-attribute {
   color: #668bb0;
 }
 
-.hljs-code,
-.hljs-class .hljs-title,
-.hljs-section {
-  color: white;
-}
-
-.hljs-regexp,
-.hljs-link {
+body .hljs-regexp,
+body .hljs-link {
   color: #d39745;
 }
 
-.hljs-meta {
+body .hljs-meta {
   color: #557182;
 }
 
-.hljs-tag,
-.hljs-name,
-.hljs-bullet,
-.hljs-subst,
-.hljs-emphasis,
-.hljs-type,
-.hljs-built_in,
-.hljs-selector-attr,
-.hljs-selector-pseudo,
-.hljs-addition,
-.hljs-variable,
-.hljs-template-tag,
-.hljs-template-variable {
+body .hljs-tag,
+body .hljs-name,
+body .hljs-bullet,
+body .hljs-subst,
+body .hljs-emphasis,
+body .hljs-type,
+body .hljs-built_in,
+body .hljs-selector-attr,
+body .hljs-selector-pseudo,
+body .hljs-addition,
+body .hljs-variable,
+body .hljs-template-tag,
+body .hljs-template-variable {
   color: #8cbbad;
 }
 
-.hljs-string,
-.hljs-symbol {
+body .hljs-string,
+body .hljs-symbol {
   color: #ec7600;
 }
 
-.hljs-comment,
-.hljs-quote,
-.hljs-deletion {
+body .hljs-comment,
+body .hljs-quote,
+body .hljs-deletion {
   color: #818e96;
 }
 
-.hljs-selector-class {
-  color: #a082bd;
+body .hljs-selector-class {
+  color: #A082BD
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-literal,
-.hljs-doctag,
-.hljs-title,
-.hljs-section,
-.hljs-type,
-.hljs-name,
-.hljs-strong {
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-literal,
+body .hljs-doctag,
+body .hljs-title,
+body .hljs-section,
+body .hljs-type,
+body .hljs-name,
+body .hljs-strong {
   font-weight: bold;
+}
+
+body .hljs-code,
+body .hljs-title.class_,
+body .hljs-class .hljs-title,
+body .hljs-section {
+  color: white;
 }

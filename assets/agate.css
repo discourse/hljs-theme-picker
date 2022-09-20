@@ -1,108 +1,139 @@
 /*!
- * Agate by Taufik Nurrohman <https://github.com/taufik-nurrohman>
- * ---------------------------------------------------------------
- *
- * #ade5fc
- * #a2fca2
- * #c6b4f0
- * #d36363
- * #fcc28c
- * #fc9b9b
- * #ffa
- * #fff
- * #333
- * #62c8f3
- * #888
- *
- */
+   Theme: Agate
+   Author: (c) Taufik Nurrohman <hi@taufik-nurrohman.com>
+   Maintainer: @taufik-nurrohman
+   Updated: 2021-04-24
 
-.hljs {
-  display: block;
-  overflow-x: auto;
-  padding: 0.5em;
+   #333
+   #62c8f3
+   #7bd694
+   #888
+   #a2fca2
+   #ade5fc
+   #b8d8a2
+   #c6b4f0
+   #d36363
+   #fc9b9b
+   #fcc28c
+   #ffa
+   #fff
+*/
+
+body .hljs {
   background: #333;
-  color: white;
+  color: #fff;
 }
 
-.hljs-name,
-.hljs-strong {
+body .hljs-doctag,
+body .hljs-meta-keyword,
+body .hljs-name,
+body .hljs-strong {
   font-weight: bold;
 }
 
-.hljs-code,
-.hljs-emphasis {
+body .hljs-code,
+body .hljs-emphasis {
   font-style: italic;
 }
 
-.hljs-tag {
+body .hljs-section,
+body .hljs-tag {
   color: #62c8f3;
 }
 
-.hljs-variable,
-.hljs-template-variable,
-.hljs-selector-id,
-.hljs-selector-class {
+body .hljs-selector-class,
+body .hljs-selector-id,
+body .hljs-template-variable,
+body .hljs-variable {
   color: #ade5fc;
 }
 
-.hljs-string,
-.hljs-bullet {
+body .hljs-meta-string,
+body .hljs-string {
   color: #a2fca2;
 }
 
-.hljs-type,
-.hljs-title,
-.hljs-section,
-.hljs-attribute,
-.hljs-quote,
-.hljs-built_in,
-.hljs-builtin-name {
+body .hljs-attr,
+body .hljs-quote,
+body .hljs-selector-attr {
+  color: #7bd694;
+}
+
+body .hljs-tag .hljs-attr {
+  color: inherit;
+}
+
+body .hljs-attribute,
+body .hljs-title,
+body .hljs-type {
   color: #ffa;
 }
 
-.hljs-number,
-.hljs-symbol,
-.hljs-bullet {
+body .hljs-number,
+body .hljs-symbol {
   color: #d36363;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-literal {
+body .hljs-bullet,
+body .hljs-template-tag {
+  color: #b8d8a2;
+}
+
+body .hljs-built_in,
+body .hljs-keyword,
+body .hljs-literal,
+body .hljs-selector-tag {
   color: #fcc28c;
 }
 
-.hljs-comment,
-.hljs-deletion,
-.hljs-code {
+body .hljs-code,
+body .hljs-comment,
+body .hljs-formula {
   color: #888;
 }
 
-.hljs-regexp,
-.hljs-link {
+body .hljs-link,
+body .hljs-selector-pseudo,
+body .hljs-regexp {
   color: #c6b4f0;
 }
 
-.hljs-meta {
+body .hljs-meta {
   color: #fc9b9b;
 }
 
-.hljs-deletion {
-  background-color: #fc9b9b;
+body .hljs-deletion {
+  background: #fc9b9b;
   color: #333;
 }
 
-.hljs-addition {
-  background-color: #a2fca2;
+body .hljs-addition {
+  background: #a2fca2;
   color: #333;
 }
 
-.hljs a {
+/* Purposely ignored */
+body .hljs-operator,
+body .hljs-params,
+body .hljs-property,
+body .hljs-punctuation {}
+
+body .hljs-subst {
+  color: #fff;
+}
+
+/* This applies only if HTML auto-merging plugin is enabled by user (#2889) */
+body .hljs a {
   color: inherit;
 }
 
-.hljs a:focus,
-.hljs a:hover {
+body .hljs a:focus,
+body .hljs a:hover {
   color: inherit;
   text-decoration: underline;
+}
+
+body .hljs mark {
+  background: #555;
+  color: inherit;
 }

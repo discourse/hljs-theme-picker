@@ -2,8 +2,8 @@
 
 Night Owl for highlight.js (c) Carl Baxter <carl@cbax.tech>
 
-An adaptation of Sarah Drasner's Night Owl VS Code Theme 
-https://github.com/sdras/night-owl-vscode-theme 
+An adaptation of Sarah Drasner's Night Owl VS Code Theme
+https://github.com/sdras/night-owl-vscode-theme
 
 Copyright (c) 2018 Sarah Drasner
 
@@ -27,156 +27,153 @@ SOFTWARE.
 
 */
 
-.hljs {
-  display: block;
-  overflow-x: auto;
-  padding: 0.5em;
+body .hljs {
   background: #011627;
   color: #d6deeb;
 }
 
 /* General Purpose */
-.hljs-keyword {
+body .hljs-keyword {
   color: #c792ea;
   font-style: italic;
 }
-.hljs-built_in {
+body .hljs-built_in {
   color: #addb67;
   font-style: italic;
 }
-.hljs-type {
+body .hljs-type {
   color: #82aaff;
 }
-.hljs-literal {
+body .hljs-literal {
   color: #ff5874;
 }
-.hljs-number {
-  color: #f78c6c;
+body .hljs-number {
+  color: #F78C6C;
 }
-.hljs-regexp {
+body .hljs-regexp {
   color: #5ca7e4;
 }
-.hljs-string {
+body .hljs-string {
   color: #ecc48d;
 }
-.hljs-subst {
+body .hljs-subst {
   color: #d3423e;
 }
-.hljs-symbol {
+body .hljs-symbol {
   color: #82aaff;
 }
-.hljs-class {
+body .hljs-class {
   color: #ffcb8b;
 }
-.hljs-function {
-  color: #82aaff;
+body .hljs-function {
+  color: #82AAFF;
 }
-.hljs-title {
-  color: #dcdcaa;
+body .hljs-title {
+  color: #DCDCAA;
   font-style: italic;
 }
-.hljs-params {
+body .hljs-params {
   color: #7fdbca;
 }
 
 /* Meta */
-.hljs-comment {
+body .hljs-comment {
   color: #637777;
   font-style: italic;
 }
-.hljs-doctag {
+body .hljs-doctag {
   color: #7fdbca;
 }
-.hljs-meta {
+body .hljs-meta {
   color: #82aaff;
 }
-.hljs-meta-keyword {
+body .hljs-meta .hljs-keyword {
+
   color: #82aaff;
 }
-.hljs-meta-string {
+body .hljs-meta .hljs-string {
   color: #ecc48d;
 }
 
 /* Tags, attributes, config */
-.hljs-section {
+body .hljs-section {
   color: #82b1ff;
 }
-.hljs-tag,
-.hljs-name,
-.hljs-builtin-name {
+body .hljs-tag,
+body .hljs-name {
   color: #7fdbca;
 }
-.hljs-attr {
+body .hljs-attr {
   color: #7fdbca;
 }
-.hljs-attribute {
+body .hljs-attribute {
   color: #80cbc4;
 }
-.hljs-variable {
+body .hljs-variable {
   color: #addb67;
 }
 
 /* Markup */
-.hljs-bullet {
+body .hljs-bullet {
   color: #d9f5dd;
 }
-.hljs-code {
-  color: #80cbc4;
+body .hljs-code {
+  color: #80CBC4;
 }
-.hljs-emphasis {
+body .hljs-emphasis {
   color: #c792ea;
   font-style: italic;
 }
-.hljs-strong {
+body .hljs-strong {
   color: #addb67;
   font-weight: bold;
 }
-.hljs-formula {
+body .hljs-formula {
   color: #c792ea;
 }
-.hljs-link {
+body .hljs-link {
   color: #ff869a;
 }
-.hljs-quote {
+body .hljs-quote {
   color: #697098;
   font-style: italic;
 }
 
 /* CSS */
-.hljs-selector-tag {
+body .hljs-selector-tag {
   color: #ff6363;
 }
 
-.hljs-selector-id {
+body .hljs-selector-id {
   color: #fad430;
 }
 
-.hljs-selector-class {
+body .hljs-selector-class {
   color: #addb67;
   font-style: italic;
 }
 
-.hljs-selector-attr,
-.hljs-selector-pseudo {
+body .hljs-selector-attr,
+body .hljs-selector-pseudo {
   color: #c792ea;
   font-style: italic;
 }
 
 /* Templates */
-.hljs-template-tag {
+body .hljs-template-tag {
   color: #c792ea;
 }
-.hljs-template-variable {
+body .hljs-template-variable {
   color: #addb67;
 }
 
 /* diff */
-.hljs-addition {
+body .hljs-addition {
   color: #addb67ff;
   font-style: italic;
 }
 
-.hljs-deletion {
-  color: #ef535090;
+body .hljs-deletion {
+  color: #EF535090;
   font-style: italic;
 }

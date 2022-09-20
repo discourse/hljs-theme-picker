@@ -1,0 +1,92 @@
+/*
+Theme: Srcery
+Description: Srcery dark color scheme for highlight.js
+Author: Chen Bin <chen.bin@gmail.com>
+Maintainer: @redguardtoo
+Website: https://srcery-colors.github.io/
+Date: 2021-04-13
+*/
+
+body .hljs {
+  background: #1C1B19; /* Black */
+  color: #FCE8C3; /* Bright White */
+}
+
+/* Bright White */
+body .hljs-subst,
+body .hljs-quote,
+body .hljs-literal {
+  color: #FCE8C3;
+}
+
+/* Bright Blue */
+body .hljs-type,
+body .hljs-symbol {
+  color: #68A8E4;
+}
+
+/* Red */
+body .hljs-keyword,
+body .hljs-deletion {
+  color: #EF2F27;
+}
+
+/* Yellow */
+body .hljs-name,
+body .hljs-function,
+body .hljs-attribute,
+body .hljs-selector-attr,
+body .hljs-selector-id,
+body .hljs-selector-class,
+body .hljs-selector-pseudo,
+body .hljs-section,
+body .hljs-title {
+  color: #FBB829;
+}
+
+/* Cyan */
+body .hljs-code,
+body .hljs-variable,
+body .hljs-property,
+body .hljs-template-variable,
+body .hljs-class {
+  color: #0AAEB3;
+}
+
+/* Bright Green */
+body .hljs-string,
+body .hljs-regexp,
+body .hljs-bullet,
+body .hljs-addition {
+  color: #98BC37;
+}
+
+/* Bright Magenta */
+body .hljs-built_in,
+body .hljs-params {
+  color: #FF5C8F;
+}
+
+/* Blue */
+body .hljs-template-tag,
+body .hljs-selector-tag {
+  color: #2C78BF;
+}
+
+/* Bright Black */
+body .hljs-link,
+body .hljs-number,
+body .hljs-comment,
+body .hljs-meta {
+  color: #918175;
+}
+
+body .hljs-emphasis {
+  font-style: italic;
+}
+
+body .hljs-strong {
+  font-weight: bold;
+}
+
+/* @see https://github.com/srcery-colors/srcery-emacs for reference */

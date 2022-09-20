@@ -4,84 +4,82 @@ Arduino® Light Theme - Stefania Mellai <s.mellai@arduino.cc>
 
 */
 
-.hljs {
-  display: block;
-  overflow-x: auto;
-  padding: 0.5em;
-  background: #ffffff;
-}
-
-.hljs,
-.hljs-subst {
+body .hljs {
+  background: white;
   color: #434f54;
 }
 
-.hljs-keyword,
-.hljs-attribute,
-.hljs-selector-tag,
-.hljs-doctag,
-.hljs-name {
-  color: #00979d;
+body .hljs-subst {
+  color: #434f54;
 }
 
-.hljs-built_in,
-.hljs-literal,
-.hljs-bullet,
-.hljs-code,
-.hljs-addition {
-  color: #d35400;
+body .hljs-keyword,
+body .hljs-attribute,
+body .hljs-selector-tag,
+body .hljs-doctag,
+body .hljs-name {
+  color: #00979D;
 }
 
-.hljs-regexp,
-.hljs-symbol,
-.hljs-variable,
-.hljs-template-variable,
-.hljs-link,
-.hljs-selector-attr,
-.hljs-selector-pseudo {
-  color: #00979d;
+body .hljs-built_in,
+body .hljs-literal,
+body .hljs-bullet,
+body .hljs-code,
+body .hljs-addition {
+  color: #D35400;
 }
 
-.hljs-type,
-.hljs-string,
-.hljs-selector-id,
-.hljs-selector-class,
-.hljs-quote,
-.hljs-template-tag,
-.hljs-deletion {
-  color: #005c5f;
+body .hljs-regexp,
+body .hljs-symbol,
+body .hljs-variable,
+body .hljs-template-variable,
+body .hljs-link,
+body .hljs-selector-attr,
+body .hljs-selector-pseudo {
+  color: #00979D;
 }
 
-.hljs-title,
-.hljs-section {
+body .hljs-type,
+body .hljs-string,
+body .hljs-selector-id,
+body .hljs-selector-class,
+body .hljs-quote,
+body .hljs-template-tag,
+body .hljs-deletion {
+  color: #005C5F;
+}
+
+body .hljs-comment {
+  color: rgba(149,165,166,.8);
+}
+
+body .hljs-meta .hljs-keyword {
+
+  color: #728E00;
+}
+
+body .hljs-meta {
+  color: #434f54;
+}
+
+body .hljs-emphasis {
+  font-style: italic;
+}
+
+body .hljs-strong {
+  font-weight: bold;
+}
+
+body .hljs-function {
+  color: #728E00;
+}
+
+body .hljs-title,
+body .hljs-section {
   color: #880000;
   font-weight: bold;
 }
 
-.hljs-comment {
-  color: rgba(149, 165, 166, 0.8);
-}
-
-.hljs-meta-keyword {
-  color: #728e00;
-}
-
-.hljs-meta {
-  color: #434f54;
-}
-
-.hljs-emphasis {
-  font-style: italic;
-}
-
-.hljs-strong {
-  font-weight: bold;
-}
-
-.hljs-function {
-  color: #728e00;
-}
-
-.hljs-number {
-  color: #8a7b52;
+body .hljs-number {
+  color: #8A7B52;
 }

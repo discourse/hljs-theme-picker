@@ -1,0 +1,114 @@
+ /*!
+  Theme: nnfx light
+  Description: a theme inspired by Netscape Navigator/Firefox
+  Author: (c) 2020-2021 Jim Mason <jmason@ibinx.com>
+  Maintainer: @RocketMan
+  License: https://creativecommons.org/licenses/by-sa/4.0  CC BY-SA 4.0
+  Updated: 2021-05-17
+
+  @version 1.1.0
+*/
+
+body .hljs {
+  background: #fff;
+  color: #000;
+}
+
+body .language-xml .hljs-meta,
+body .language-xml .hljs-meta-string {
+  font-weight: bold;
+  font-style: italic;
+  color: #48b;
+}
+
+body .hljs-comment,
+body .hljs-quote {
+  font-style: italic;
+  color: #070;
+}
+
+body .hljs-name,
+body .hljs-keyword,
+body .hljs-built_in {
+  color: #808;
+}
+
+body .hljs-name,
+body .hljs-attr {
+  font-weight: bold;
+}
+
+body .hljs-string {
+  font-weight: normal;
+}
+
+body .hljs-code,
+body .hljs-string,
+body .hljs-meta .hljs-string,
+body .hljs-number,
+body .hljs-regexp,
+body .hljs-link {
+  color: #00f;
+}
+
+body .hljs-title,
+body .hljs-symbol,
+body .hljs-bullet,
+body .hljs-variable,
+body .hljs-template-variable {
+  color: #f40;
+}
+
+body .hljs-title.class_,
+body .hljs-class .hljs-title,
+body .hljs-type {
+  font-weight: bold;
+  color: #639;
+}
+
+body .hljs-title.function_,
+body .hljs-function .hljs-title,
+body .hljs-attr,
+body .hljs-subst,
+body .hljs-tag {
+  color: #000;
+}
+
+body .hljs-formula {
+  background-color: #eee;
+  font-style: italic;
+}
+
+body .hljs-addition {
+  background-color: #beb;
+}
+
+body .hljs-deletion {
+  background-color: #fbb;
+}
+
+body .hljs-meta {
+  color: #269;
+}
+
+body .hljs-section,
+body .hljs-selector-id,
+body .hljs-selector-class,
+body .hljs-selector-pseudo,
+body .hljs-selector-tag {
+  font-weight: bold;
+  color: #48b;
+}
+
+body .hljs-selector-pseudo {
+  font-style: italic;
+}
+
+body .hljs-doctag,
+body .hljs-strong {
+  font-weight: bold;
+}
+
+body .hljs-emphasis {
+  font-style: italic;
+}

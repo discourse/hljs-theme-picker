@@ -1,0 +1,117 @@
+/*!
+  Theme: Tokyo-night-Dark
+  origin: https://github.com/enkia/tokyo-night-vscode-theme
+  Description: Original highlight.js style
+  Author: (c) Henri Vandersleyen <hvandersleyen@gmail.com>
+  License: see project LICENSE
+  Touched: 2022
+*/
+
+/*  Comment */
+body .hljs-meta,
+body .hljs-comment {
+  color: #565f89;
+}
+
+/* Red */
+/*INFO: This keyword, HTML elements, Regex group symbol, CSS units, Terminal Red */
+body .hljs-tag,
+body .hljs-doctag,
+body .hljs-selector-id,
+body .hljs-selector-class,
+body .hljs-regexp,
+body .hljs-template-tag,
+body .hljs-selector-pseudo,
+body .hljs-selector-attr,
+body .hljs-variable.language_,
+body .hljs-deletion {
+  color: #f7768e;
+}
+
+/*Orange */
+/*INFO: Number and Boolean constants, Language support constants */
+body .hljs-variable,
+body .hljs-template-variable,
+body .hljs-number,
+body .hljs-literal,
+body .hljs-type,
+body .hljs-params,
+body .hljs-link {
+  color: #ff9e64;
+}
+
+
+/*  Yellow */
+/* INFO:  	Function parameters, Regex character sets, Terminal Yellow */
+body .hljs-built_in,
+body .hljs-attribute {
+  color: #e0af68;
+}
+/* cyan */
+/* INFO: Language support functions, CSS HTML elements */
+body .hljs-selector-tag {
+  color: #2ac3de;
+}
+
+/* light blue */
+/* INFO: Object properties, Regex quantifiers and flags, Markdown headings, Terminal Cyan, Markdown code, Import/export keywords */
+body .hljs-keyword,
+  .hljs-title.function_,
+body .hljs-title,
+body .hljs-title.class_,
+body .hljs-title.class_.inherited__,
+body .hljs-subst,
+body .hljs-property {color: #7dcfff;}
+
+/*Green*/
+/* INFO: Object literal keys, Markdown links, Terminal Green */
+body .hljs-selector-tag { color: #73daca;}
+
+
+/*Green(er) */
+/* INFO: Strings, CSS class names */
+body .hljs-quote,
+body .hljs-string,
+body .hljs-symbol,
+body .hljs-bullet,
+body .hljs-addition {
+  color: #9ece6a;
+}
+
+/* Blue */
+/* INFO:  	Function names, CSS property names, Terminal Blue */
+body .hljs-code,
+body .hljs-formula,
+body .hljs-section {
+  color: #7aa2f7;
+}
+
+
+
+/* Magenta */
+/*INFO: Control Keywords, Storage Types, Regex symbols and operators, HTML Attributes, Terminal Magenta */
+body .hljs-name,
+body .hljs-keyword,
+body .hljs-operator,
+body .hljs-keyword,
+body .hljs-char.escape_,
+body .hljs-attr {
+  color: #bb9af7;
+}
+
+/* white*/
+/* INFO: Variables, Class names, Terminal White */
+body .hljs-punctuation {color: #c0caf5}
+
+body .hljs {
+  background: #1a1b26;
+  color: #9aa5ce;
+}
+
+body .hljs-emphasis {
+  font-style: italic;
+}
+
+body .hljs-strong {
+  font-weight: bold;
+}

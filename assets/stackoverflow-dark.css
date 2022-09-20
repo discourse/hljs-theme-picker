@@ -1,0 +1,126 @@
+/*!
+  Theme: StackOverflow Dark
+  Description: Dark theme as used on stackoverflow.com
+  Author: stackoverflow.com
+  Maintainer: @Hirse
+  Website: https://github.com/StackExchange/Stacks
+  License: MIT
+  Updated: 2021-05-15
+
+  Updated for @stackoverflow/stacks v0.64.0
+  Code Blocks: /blob/v0.64.0/lib/css/components/_stacks-code-blocks.less
+  Colors: /blob/v0.64.0/lib/css/exports/_stacks-constants-colors.less
+*/
+
+body .hljs {
+  /* var(--highlight-color) */
+  color: #ffffff;
+  /* var(--highlight-bg) */
+  background: #1c1b1b;
+}
+
+body .hljs-subst {
+  /* var(--highlight-color) */
+  color: #ffffff;
+}
+
+body .hljs-comment {
+  /* var(--highlight-comment) */
+  color: #999999;
+}
+
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-meta .hljs-keyword,
+body .hljs-doctag,
+body .hljs-section {
+  /* var(--highlight-keyword) */
+  color: #88aece;
+}
+
+body .hljs-attr {
+  /* var(--highlight-attribute); */
+  color: #88aece;
+}
+
+body .hljs-attribute {
+  /* var(--highlight-symbol) */
+  color: #c59bc1;
+}
+
+body .hljs-name,
+body .hljs-type,
+body .hljs-number,
+body .hljs-selector-id,
+body .hljs-quote,
+body .hljs-template-tag {
+  /* var(--highlight-namespace) */
+  color: #f08d49;
+}
+
+body .hljs-selector-class {
+  /* var(--highlight-keyword) */
+  color: #88aece;
+}
+
+body .hljs-string,
+body .hljs-regexp,
+body .hljs-symbol,
+body .hljs-variable,
+body .hljs-template-variable,
+body .hljs-link,
+body .hljs-selector-attr {
+  /* var(--highlight-variable) */
+  color: #b5bd68;
+}
+
+body .hljs-meta,
+body .hljs-selector-pseudo {
+  /* var(--highlight-keyword) */
+  color: #88aece;
+}
+
+body .hljs-built_in,
+body .hljs-title,
+body .hljs-literal {
+  /* var(--highlight-literal) */
+  color: #f08d49;
+}
+
+body .hljs-bullet,
+body .hljs-code {
+  /* var(--highlight-punctuation) */
+  color: #cccccc;
+}
+
+body .hljs-meta .hljs-string {
+  /* var(--highlight-variable) */
+  color: #b5bd68;
+}
+
+body .hljs-deletion {
+  /* var(--highlight-deletion) */
+  color: #de7176;
+}
+
+body .hljs-addition {
+  /* var(--highlight-addition) */
+  color: #76c490;
+}
+
+body .hljs-emphasis {
+  font-style: italic;
+}
+
+body .hljs-strong {
+  font-weight: bold;
+}
+
+body .hljs-formula,
+body .hljs-operator,
+body .hljs-params,
+body .hljs-property,
+body .hljs-punctuation,
+body .hljs-tag {
+  /* purposely ignored */
+}

@@ -1,0 +1,78 @@
+/*
+Qt Creator light color scheme
+*/
+
+
+body .hljs {
+  color: #000000;
+  background: #ffffff;
+}
+
+body .hljs-strong,
+body .hljs-emphasis {
+  color: #000000;
+}
+
+body .hljs-bullet,
+body .hljs-quote,
+body .hljs-number,
+body .hljs-regexp,
+body .hljs-literal {
+  color: #000080;
+}
+
+body .hljs-code
+body .hljs-selector-class {
+  color: #800080;
+}
+
+body .hljs-emphasis,
+body .hljs-stronge,
+body .hljs-type {
+  font-style: italic;
+}
+
+body .hljs-keyword,
+body .hljs-selector-tag,
+body .hljs-function,
+body .hljs-section,
+body .hljs-symbol,
+body .hljs-name {
+  color: #808000;
+}
+
+body .hljs-subst,
+body .hljs-tag,
+body .hljs-title {
+  color: #000000;
+}
+
+body .hljs-attribute {
+  color: #800000;
+}
+
+body .hljs-variable,
+body .hljs-params,
+body .hljs-title.class_,
+body .hljs-class .hljs-title {
+  color: #0055AF;
+}
+
+body .hljs-string,
+body .hljs-selector-id,
+body .hljs-selector-attr,
+body .hljs-selector-pseudo,
+body .hljs-type,
+body .hljs-built_in,
+body .hljs-template-tag,
+body .hljs-template-variable,
+body .hljs-addition,
+body .hljs-link {
+  color: #008000;
+}
+
+body .hljs-comment,
+body .hljs-meta,
+body .hljs-deletion {
+  color: #008000;
+}

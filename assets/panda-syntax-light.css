@@ -1,0 +1,94 @@
+/**
+ * Panda Syntax Theme for Highlight.js
+ * Based on: https://github.com/tinkertrain/panda-syntax-vscode
+ * Author: Annmarie Switzer <https://github.com/annmarie-switzer>
+ */
+
+body .hljs {
+  color: #2a2c2d;
+  background: #e6e6e6;
+}
+
+body .hljs-emphasis {
+  font-style: italic;
+}
+
+body .hljs-strong {
+  font-weight: bold;
+}
+
+body .hljs-link {
+  text-decoration: underline;
+}
+
+body .hljs-comment,
+body .hljs-quote {
+  color: #676B79;
+  font-style: italic;
+}
+
+body .hljs-params {
+  color: #676B79;
+}
+
+body .hljs-punctuation,
+body .hljs-attr {
+  color: #2a2c2d;
+}
+
+body .hljs-selector-tag,
+body .hljs-name,
+body .hljs-meta,
+body .hljs-operator,
+body .hljs-char.escape_ {
+  color: #c56200;
+}
+
+body .hljs-keyword,
+body .hljs-deletion {
+  color: #d92792;
+}
+
+body .hljs-regexp,
+body .hljs-selector-pseudo,
+body .hljs-selector-attr,
+body .hljs-variable.language_ {
+  color: #cc5e91;
+}
+
+body .hljs-subst,
+body .hljs-property,
+body .hljs-code,
+body .hljs-formula,
+body .hljs-section,
+body .hljs-title.function_ {
+  color: #3787c7;
+}
+
+body .hljs-string,
+body .hljs-symbol,
+body .hljs-bullet,
+body .hljs-addition,
+body .hljs-selector-class,
+body .hljs-title.class_,
+body .hljs-title.class_.inherited__,
+body .hljs-meta .hljs-string {
+  color: #0d7d6c;
+}
+
+body .hljs-variable,
+body .hljs-template-variable,
+body .hljs-number,
+body .hljs-literal,
+body .hljs-type,
+body .hljs-link,
+body .hljs-built_in,
+body .hljs-title,
+body .hljs-selector-id,
+body .hljs-tag,
+body .hljs-doctag,
+body .hljs-attribute,
+body .hljs-template-tag,
+body .hljs-meta .hljs-keyword {
+  color: #7641bb;
+}

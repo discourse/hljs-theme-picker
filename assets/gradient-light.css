@@ -1,18 +1,18 @@
 /*
 
-Gradient Dark (c) Samia Ali <samiaab1990@gmail.com>
+Gradient Light (c) Samia Ali <samiaab1990@gmail.com>
 
 */
 
 body .hljs
 {
-background-color: #652487;
-background-image: linear-gradient(160deg, #652487 0%, #443ac3 35%, #0174b7 68%, #04988e 100%);
-color:#e7e4eb;
+background-color: #f9ccff;
+background-image: linear-gradient(295deg, #f9ccff 0%, #e6bbf9 11%, #9ec6f9 32%, #55e6ee 60%, #91f5d1 74%, #f9ffbf 98%);
+color:#250482;
 }
 
 body .hljs-subtr{
-  color:#e7e4eb;
+color:#01958B;
 }
 
 body .hljs-doctag,
@@ -20,7 +20,7 @@ body .hljs-meta,
 body .hljs-comment,
 body .hljs-quote
 {
-  color:#af8dd9;
+  color:#CB7200;
 }
 
 body .hljs-selector-tag,
@@ -30,7 +30,7 @@ body .hljs-regexp,
 body .hljs-attr,
 body .hljs-tag
 {
-  color:#AEFBFF;
+  color:#07BD5F;
 }
 
 body .hljs-params,
@@ -38,7 +38,7 @@ body .hljs-selector-class,
 body .hljs-bullet
 
 {
-  color:#F19FFF;
+  color:#43449F;
 
 }
 
@@ -46,39 +46,40 @@ body .hljs-keyword,
 body .hljs-section,
 body .hljs-meta .hljs-keyword,
 
+
 body .hljs-symbol,
 body .hljs-type
 
 {
 
-  color:#17fc95;
+  color:#7D2801;
 }
 
 body .hljs-addition,
 body .hljs-number,
 body .hljs-link
 {
-  color:#C5FE00;
+  color:#7F0096;
 }
 
 
 body .hljs-string
 {
-  color: #38c0ff;
+  color: #2681ab;
 }
 
 
 body .hljs-attribute,
 body .hljs-addition
 {
-  color:#E7FF9F;
+  color:#296562;
 }
 
 body .hljs-variable,
 body .hljs-template-variable
 
 {
-  color:#E447FF;
+  color:#025C8F;
 }
 
 body .hljs-built_in,
@@ -88,7 +89,7 @@ body .hljs-title,
 body .hljs-class,
 body .hljs-function
 {
-  color: #FFC800;
+  color: #529117;
 
 }
 
@@ -96,7 +97,7 @@ body .hljs-selector-pseudo,
 body .hljs-deletion,
 body .hljs-literal
 {
-  color:#FF9E44;
+  color:#AD13FF;
 
 }
 
@@ -117,3 +118,11 @@ body .hljs-keyword
 {
   font-weight:bold;
 }
+
+
+
+
+
+
+
+
