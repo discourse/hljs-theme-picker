@@ -5,3 +5,5 @@
 # https://translate.discourse.org/
 
 de:
+  theme_metadata:
+    description: Mit dieser Theme-Komponente kannst du die Hervorhebungsfarben in Codeblöcken ändern
