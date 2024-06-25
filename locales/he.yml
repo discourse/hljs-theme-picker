@@ -5,3 +5,5 @@
 # https://translate.discourse.org/
 
 he:
+  theme_metadata:
+    description: רכיב ערכת העיצוב הזה מאפשר לך לשנות את צבעי ההדגשה בהם משתמשים לקטעי קוד
