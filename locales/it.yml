@@ -5,3 +5,5 @@
 # https://translate.discourse.org/
 
 it:
+  theme_metadata:
+    description: Questo componente del tema consente di modificare i colori di evidenziazione utilizzati nei blocchi di codice

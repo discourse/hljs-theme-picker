@@ -5,3 +5,5 @@
 # https://translate.discourse.org/
 
 es:
+  theme_metadata:
+    description: Este componente temático te permite cambiar los colores de resaltado utilizados en los bloques de código
