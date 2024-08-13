@@ -5,3 +5,5 @@
 # https://translate.discourse.org/
 
 zh_CN:
+  theme_metadata:
+    description: 此主题组件允许您更改代码块中使用的高亮显示颜色

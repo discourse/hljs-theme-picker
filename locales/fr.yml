@@ -5,3 +5,5 @@
 # https://translate.discourse.org/
 
 fr:
+  theme_metadata:
+    description: Ce composant de thème vous permet de modifier les couleurs de surbrillance utilisées dans les blocs de code.

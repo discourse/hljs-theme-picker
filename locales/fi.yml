@@ -5,3 +5,5 @@
 # https://translate.discourse.org/
 
 fi:
+  theme_metadata:
+    description: Tämän teemakomponentin avulla voit muuttaa koodilohkoissa käytettyjä korostusvärejä
