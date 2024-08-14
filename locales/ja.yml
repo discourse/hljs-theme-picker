@@ -5,3 +5,5 @@
 # https://translate.discourse.org/
 
 ja:
+  theme_metadata:
+    description: このテーマコンポーネントでは、コードブロックで使用されるハイライト色を変更できます

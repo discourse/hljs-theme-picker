@@ -5,3 +5,5 @@
 # https://translate.discourse.org/
 
 ar:
+  theme_metadata:
+    description: يسمح لك مكوِّن الموضوع هذا بتغيير ألوان التمييز المستخدمة في كتل الرموز البرمجية
