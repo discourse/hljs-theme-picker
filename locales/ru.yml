@@ -5,3 +5,5 @@
 # https://translate.discourse.org/
 
 ru:
+  theme_metadata:
+    description: Этот компонент темы позволяет изменять цвета выделения, используемые в блоках кода
