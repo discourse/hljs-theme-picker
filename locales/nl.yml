@@ -5,3 +5,5 @@
 # https://translate.discourse.org/
 
 nl:
+  theme_metadata:
+    description: Met deze themacomponent kun je de markeringskleuren wijzigen die in codeblokken worden gebruikt

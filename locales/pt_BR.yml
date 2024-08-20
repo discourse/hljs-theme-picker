@@ -5,3 +5,5 @@
 # https://translate.discourse.org/
 
 pt_BR:
+  theme_metadata:
+    description: Com este componente do tema, você pode mudar as cores de destaque usadas em blocos de códigos
