@@ -1,5 +1,4 @@
 hljs_theme:
-  description: "Select the theme you want code blocks to use. You can visit <a target='_blank' href='https://highlightjs.org/static/demo/'>the hljs demo page</a> to preview the themes"
   default: github
   type: enum
   choices:
@@ -77,4 +76,3 @@ hljs_theme:
     - xt256
 hljs_dark_match:
   default: false
-  description: "Load dark color scheme if available"

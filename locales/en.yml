@@ -1,3 +1,6 @@
 en:
   theme_metadata:
     description: This theme component allows you to change the highlight colors used in code blocks
+    settings:
+      hljs_theme: "Select the theme you want code blocks to use. You can visit <a target='_blank' href='https://highlightjs.org/demo/'>the hljs demo page</a> to preview the themes"
+      hljs_dark_match: "Load dark color palette if available"
