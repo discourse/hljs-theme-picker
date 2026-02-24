@@ -7,3 +7,6 @@
 de:
   theme_metadata:
     description: Mit dieser Theme-Komponente kannst du die Hervorhebungsfarben in Codeblöcken ändern
+    settings:
+      hljs_theme: "Wähle das Theme aus, das du für die Codeblöcke verwenden möchtest. Du kannst die <a target='_blank' href='https://highlightjs.org/demo/'>hljs-Demoseite</a> besuchen, um eine Vorschau der Themes zu sehen"
+      hljs_dark_match: "Dunkle Farbpalette laden, falls verfügbar"
