@@ -7,3 +7,6 @@
 he:
   theme_metadata:
     description: רכיב ערכת העיצוב הזה מאפשר לך לשנות את צבעי ההדגשה בהם משתמשים לקטעי קוד
+    settings:
+      hljs_theme: "נא לבחור את ערכת העיצוב שברצונך להשתמש במקטעי הקוד שלה. אפשר לבקר ב<a target='_blank' href='https://highlightjs.org/demo/'>עמוד ההדגמה של hljs</a> כדי להתנסות בערכות העיצוב"
+      hljs_dark_match: "לטעון את ערכת הצבעים הכהה אם אפשר"
