@@ -7,3 +7,6 @@
 tr_TR:
   theme_metadata:
     description: Bu tema bileşeni, kod bloklarında kullanılan vurgu renklerini değiştirmenize olanak tanır
+    settings:
+      hljs_theme: "Kod bloklarının kullanmasını istediğiniz temayı seçin. Temaları önizlemek için <a target='_blank' href='https://highlightjs.org/demo/'>hljs demo sayfasını</a> ziyaret edebilirsiniz."
+      hljs_dark_match: "Mümkünse koyu renk paletini yükle"
