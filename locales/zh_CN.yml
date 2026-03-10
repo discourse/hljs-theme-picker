@@ -7,3 +7,6 @@
 zh_CN:
   theme_metadata:
     description: 此主题组件允许您更改代码块中使用的高亮显示颜色
+    settings:
+      hljs_theme: "选择您希望代码块使用的主题。您可以访问 <a target='_blank' href='https://highlightjs.org/demo/'>hljs 演示页面</a>预览这些主题"
+      hljs_dark_match: "如果可用，加载深色调色板"
