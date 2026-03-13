@@ -5,3 +5,7 @@
 # https://translate.discourse.org/
 
 ro:
+  theme_metadata:
+    settings:
+      hljs_theme: "Selectează tema pe care vrei să o utilizeze blocurile de cod. Poți vizita <a target='_blank' href='https://highlightjs.org/demo/'>pagina demonstrativă hljs</a> pentru a previzualiza temele"
+      hljs_dark_match: "Încarcă paleta de culori închise, dacă este disponibilă"
