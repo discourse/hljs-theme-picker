@@ -7,3 +7,6 @@
 es:
   theme_metadata:
     description: Este componente temático te permite cambiar los colores de resaltado utilizados en los bloques de código
+    settings:
+      hljs_theme: "Selecciona el tema que quieres que usen los bloques de código. Puedes visitar <a target='_blank' href='https://highlightjs.org/demo/'>la página de demostración de hljs</a> para ver una vista previa los temas."
+      hljs_dark_match: "Cargar paleta de colores oscuros si está disponible"
