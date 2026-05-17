@@ -7,3 +7,6 @@
 nl:
   theme_metadata:
     description: Met deze themacomponent kun je de markeringskleuren wijzigen die in codeblokken worden gebruikt
+    settings:
+      hljs_theme: "Selecteer het thema dat je wilt gebruiken voor codeblokken. Je kunt <a target='_blank' href='https://highlightjs.org/demo/'>de hljs-demopagina</a> bezoeken om een voorbeeld van de thema's te bekijken."
+      hljs_dark_match: "Donker kleurenpalet laden indien beschikbaar"
