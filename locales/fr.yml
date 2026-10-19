@@ -7,3 +7,6 @@
 fr:
   theme_metadata:
     description: Ce composant de thème vous permet de modifier les couleurs de surbrillance utilisées dans les blocs de code.
+    settings:
+      hljs_theme: "Sélectionnez le thème à utiliser pour les blocs de code. Vous pouvez consulter <a target='_blank' href='https://highlightjs.org/demo/'>la démonstration de hljs</a> pour prévisualiser les thèmes"
+      hljs_dark_match: "Charger la palette de couleurs sombres si elle est disponible"
